@@ -1,8 +1,14 @@
 # Anyone's Intelligence
 
-Anyone's Intelligence 是一个研究与原型项目，探索由现代语言哲学、语言学和拉康精神分析启发的新型语言模型。项目希望从语言表示、学习目标和推理机制入手，提高模型理解语境、识别自身知识边界、解释判断和提出新解法的能力。
+Anyone's Intelligence 是一个早期语言模型研究与原型项目，以现代语言哲学、语言学和拉康精神分析为思想来源，探索更可靠、更可解释的语言理解机制。项目从语言表示、学习目标和推理过程入手，研究模型如何理解语境、识别知识边界、解释判断，并提出可验证的新解法。
 
 长期愿景包括消除 AI 幻觉、消除黑箱、提高使用安全性，以及探索与“意识”有关的问题，并深化模型对艺术、文化与政治的理解。这些愿景需要分阶段检验；目前不作为已实现能力或可保证的结果。
+
+**当前阶段：研究立项与原型设计。** 仓库目前包含研究计划与安全要求，尚无模型实现、训练结果或已验证的运行隔离。
+
+## English summary
+
+Anyone's Intelligence is an early-stage language-model research and prototyping project inspired by modern philosophy of language, linguistics, and Lacanian psychoanalysis. It explores contextual understanding, reliability, interpretability, safety, understanding of art, culture and politics, creative problem-solving, and mechanisms relevant to consciousness research. The repository currently contains research plans and safety requirements; no model implementation, experimental results, or verified runtime isolation are available yet.
 
 ## 研究方向
 
@@ -19,7 +25,7 @@ Anyone's Intelligence 是一个研究与原型项目，探索由现代语言哲�
 
 ## 哲学与实验的关系
 
-拉康精神分析已由项目发起人确认为思想来源。后续应选定原文与版本，记录概念的语境，再提出工程假设。每项假设都要明确表示方式、训练方法、对照实验和失败条件。
+拉康精神分析是本项目的思想来源之一。研究将选定原文与版本，记录概念的语境，再提出工程假设。每项假设都要明确表示方式、训练方法、对照实验和失败条件。
 
 哲学概念为研究提供问题和结构启发；模型实验检验某种工程机制是否有效。两者之间的对应关系本身也需要论证，不能直接把 token、向量或某个模块命名为一个哲学概念，就视为完成了实现。
 
@@ -49,3 +55,7 @@ Anyone's Intelligence 是一个研究与原型项目，探索由现代语言哲�
 - [项目协作约定](AGENTS.md)
 
 下一步是确定首个语言现象与任务集，结合可用硬件和计算预算完成基线实验规格，再实现可运行原型。
+
+## 联系方式
+
+项目联系邮箱：[lexzeonstudio@gmail.com](mailto:lexzeonstudio@gmail.com)。
