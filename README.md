@@ -9,6 +9,7 @@ Anyone's Intelligence 是一个语言模型研究与原型项目，以现代语�
 **当前处于早期研究阶段，尚无模型实现或实验结果。** 开发计划采用离线实验，限制联网与本地 agent 能力；运行隔离仍待实施和验证。
 
 - [项目网站](https://lexzeon.github.io/anyones-intelligence/)
+- [研究日志](https://lexzeon.github.io/anyones-intelligence/#research-log)
 - [研究计划](docs/RESEARCH_PLAN.md)
 - [安全原则](docs/SAFETY.md)
 

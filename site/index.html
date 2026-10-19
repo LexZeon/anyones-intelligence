@@ -12,6 +12,7 @@
     <link rel="canonical" href="https://lexzeon.github.io/anyones-intelligence/">
     <link rel="icon" href="./favicon.svg" type="image/svg+xml">
     <link rel="stylesheet" href="./styles.css">
+    <script src="./research-log.js" defer></script>
     <title>Anyone's Intelligence — 从语言出发，探索理解</title>
   </head>
   <body>
@@ -19,7 +20,10 @@
     <div class="page">
       <header class="site-header">
         <span class="project-type">语言模型研究与原型项目</span>
-        <a class="repository-link" href="https://github.com/LexZeon/anyones-intelligence">GitHub 仓库 <span aria-hidden="true">↗</span></a>
+        <nav class="header-links" aria-label="主导航">
+          <a href="#research-log">研究日志</a>
+          <a class="repository-link" href="https://github.com/LexZeon/anyones-intelligence">GitHub 仓库 <span aria-hidden="true">↗</span></a>
+        </nav>
       </header>
 
       <main id="introduction">
@@ -40,6 +44,99 @@
           <a class="primary-link" href="https://github.com/LexZeon/anyones-intelligence/blob/main/docs/RESEARCH_PLAN.md">阅读研究计划</a>
           <a class="text-link" href="https://github.com/LexZeon/anyones-intelligence/blob/main/docs/SAFETY.md">安全原则</a>
         </nav>
+
+        <section class="research-log" id="research-log" aria-labelledby="research-log-title">
+          <div class="log-heading">
+            <h2 id="research-log-title">研究日志</h2>
+            <a href="https://github.com/LexZeon/anyones-intelligence/commits/main/">查看 GitHub 提交</a>
+          </div>
+          <p class="log-intro">按日期记录页面改动、文件新增与上传、功能更新。</p>
+          <!-- RESEARCH_LOG:START -->
+          <div class="log-summary">1 天 · 5 条更新</div>
+          <div class="log-filters" hidden role="group" aria-label="按更新类型筛选">
+            <button type="button" data-log-filter="all" aria-pressed="true" aria-controls="log-days">全部<span class="filter-count">5</span></button>
+            <button type="button" data-log-filter="page" aria-pressed="false" aria-controls="log-days">页面改动<span class="filter-count">2</span></button>
+            <button type="button" data-log-filter="file" aria-pressed="false" aria-controls="log-days">文件更新<span class="filter-count">2</span></button>
+            <button type="button" data-log-filter="feature" aria-pressed="false" aria-controls="log-days">功能更新<span class="filter-count">1</span></button>
+          </div>
+          <p class="log-filter-status" role="status" aria-live="polite">共 5 条更新</p>
+          <div id="log-days">
+            <section class="log-day" data-log-day>
+              <h3><time datetime="2026-10-19">2026年10月19日</time></h3>
+              <ol class="log-entries">
+                <li class="log-entry" data-log-type="feature">
+                  <article>
+                    <span class="log-kind">功能更新</span>
+                    <h4>首页加入按日研究日志</h4>
+                    <p class="log-description">按日期展示项目更新，支持筛选页面改动、文件更新和功能更新，并链接相关文件与历史提交。</p>
+                    <ul class="log-files">
+                      <li><span class="file-change">新增</span><a href="https://github.com/LexZeon/anyones-intelligence/blob/main/data/research-log.json">data/research-log.json</a></li>
+                      <li><span class="file-change">新增</span><a href="https://github.com/LexZeon/anyones-intelligence/blob/main/scripts/build-research-log.mjs">scripts/build-research-log.mjs</a></li>
+                      <li><span class="file-change">新增</span><a href="https://github.com/LexZeon/anyones-intelligence/blob/main/site/research-log.js">site/research-log.js</a></li>
+                    </ul>
+                  </article>
+                </li>
+                <li class="log-entry" data-log-type="file">
+                  <article>
+                    <span class="log-kind">文件更新</span>
+                    <h4>更新安全规范的实施状态</h4>
+                    <p class="log-description">明确模型原型尚未实现，区分开发安全要求与经过验证的隔离措施。</p>
+                    <ul class="log-files">
+                      <li><span class="file-change">更新</span><a href="https://github.com/LexZeon/anyones-intelligence/blob/9a440254d31bc64a1e89951a3dd4d96bf1d4b5a5/docs/SAFETY.md">docs/SAFETY.md</a></li>
+                    </ul>
+                    <div class="log-commits">
+                      <a href="https://github.com/LexZeon/anyones-intelligence/commit/9a440254d31bc64a1e89951a3dd4d96bf1d4b5a5">查看提交 9a44025</a>
+                    </div>
+                  </article>
+                </li>
+                <li class="log-entry" data-log-type="page">
+                  <article>
+                    <span class="log-kind">页面改动</span>
+                    <h4>上线独立项目介绍网站</h4>
+                    <p class="log-description">发布 GitHub Pages 首页，将网站和 README 精简为面向访客的项目介绍。</p>
+                    <ul class="log-files">
+                      <li><span class="file-change">新增</span><a href="https://github.com/LexZeon/anyones-intelligence/blob/a50451a512364d9d687785c299ff029bf0263dfd/site/index.html">site/index.html</a></li>
+                      <li><span class="file-change">新增</span><a href="https://github.com/LexZeon/anyones-intelligence/blob/a50451a512364d9d687785c299ff029bf0263dfd/site/styles.css">site/styles.css</a></li>
+                      <li><span class="file-change">更新</span><a href="https://github.com/LexZeon/anyones-intelligence/blob/a50451a512364d9d687785c299ff029bf0263dfd/README.md">README.md</a></li>
+                    </ul>
+                    <div class="log-commits">
+                      <a href="https://github.com/LexZeon/anyones-intelligence/commit/a50451a512364d9d687785c299ff029bf0263dfd">查看提交 a50451a</a>
+                    </div>
+                  </article>
+                </li>
+                <li class="log-entry" data-log-type="page">
+                  <article>
+                    <span class="log-kind">页面改动</span>
+                    <h4>建立 GitHub 仓库介绍</h4>
+                    <p class="log-description">补充项目定位、英文摘要与联系信息，公开早期研究方向。</p>
+                    <ul class="log-files">
+                      <li><span class="file-change">更新</span><a href="https://github.com/LexZeon/anyones-intelligence/blob/c511fb419b15702b3689354095e0e9ea213cdd41/README.md">README.md</a></li>
+                    </ul>
+                    <div class="log-commits">
+                      <a href="https://github.com/LexZeon/anyones-intelligence/commit/c511fb419b15702b3689354095e0e9ea213cdd41">查看提交 c511fb4</a>
+                    </div>
+                  </article>
+                </li>
+                <li class="log-entry" data-log-type="file">
+                  <article>
+                    <span class="log-kind">文件更新</span>
+                    <h4>建立研究计划与安全文档</h4>
+                    <p class="log-description">记录研究愿景、可检验假设、原型路线与开发安全边界，作为项目的研究起点。</p>
+                    <ul class="log-files">
+                      <li><span class="file-change">新增</span><a href="https://github.com/LexZeon/anyones-intelligence/blob/088260d254546db2092b9839eb84a538aaaf15f5/docs/RESEARCH_PLAN.md">docs/RESEARCH_PLAN.md</a></li>
+                      <li><span class="file-change">新增</span><a href="https://github.com/LexZeon/anyones-intelligence/blob/088260d254546db2092b9839eb84a538aaaf15f5/docs/SAFETY.md">docs/SAFETY.md</a></li>
+                      <li><span class="file-change">新增</span><a href="https://github.com/LexZeon/anyones-intelligence/blob/088260d254546db2092b9839eb84a538aaaf15f5/AGENTS.md">AGENTS.md</a></li>
+                    </ul>
+                    <div class="log-commits">
+                      <a href="https://github.com/LexZeon/anyones-intelligence/commit/088260d254546db2092b9839eb84a538aaaf15f5">查看提交 088260d</a>
+                    </div>
+                  </article>
+                </li>
+              </ol>
+            </section>
+          </div>
+          <!-- RESEARCH_LOG:END -->
+        </section>
       </main>
 
       <footer class="site-footer">

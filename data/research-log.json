@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "timezone": "America/Los_Angeles",
+  "entries": [
+    {
+      "id": "2026-10-19-daily-research-log",
+      "date": "2026-10-19",
+      "type": "feature",
+      "title": "首页加入按日研究日志",
+      "summary": "按日期展示项目更新，支持筛选页面改动、文件更新和功能更新，并链接相关文件与历史提交。",
+      "files": [
+        { "path": "data/research-log.json", "change": "added" },
+        { "path": "scripts/build-research-log.mjs", "change": "added" },
+        { "path": "site/research-log.js", "change": "added" }
+      ]
+    },
+    {
+      "id": "2026-10-19-safety-status",
+      "date": "2026-10-19",
+      "type": "file",
+      "title": "更新安全规范的实施状态",
+      "summary": "明确模型原型尚未实现，区分开发安全要求与经过验证的隔离措施。",
+      "files": [
+        { "path": "docs/SAFETY.md", "change": "modified", "ref": "9a440254d31bc64a1e89951a3dd4d96bf1d4b5a5" }
+      ],
+      "commits": ["9a440254d31bc64a1e89951a3dd4d96bf1d4b5a5"]
+    },
+    {
+      "id": "2026-10-19-project-website",
+      "date": "2026-10-19",
+      "type": "page",
+      "title": "上线独立项目介绍网站",
+      "summary": "发布 GitHub Pages 首页，将网站和 README 精简为面向访客的项目介绍。",
+      "files": [
+        { "path": "site/index.html", "change": "added", "ref": "a50451a512364d9d687785c299ff029bf0263dfd" },
+        { "path": "site/styles.css", "change": "added", "ref": "a50451a512364d9d687785c299ff029bf0263dfd" },
+        { "path": "README.md", "change": "modified", "ref": "a50451a512364d9d687785c299ff029bf0263dfd" }
+      ],
+      "commits": ["a50451a512364d9d687785c299ff029bf0263dfd"]
+    },
+    {
+      "id": "2026-10-19-github-introduction",
+      "date": "2026-10-19",
+      "type": "page",
+      "title": "建立 GitHub 仓库介绍",
+      "summary": "补充项目定位、英文摘要与联系信息，公开早期研究方向。",
+      "files": [
+        { "path": "README.md", "change": "modified", "ref": "c511fb419b15702b3689354095e0e9ea213cdd41" }
+      ],
+      "commits": ["c511fb419b15702b3689354095e0e9ea213cdd41"]
+    },
+    {
+      "id": "2026-10-19-research-foundation",
+      "date": "2026-10-19",
+      "type": "file",
+      "title": "建立研究计划与安全文档",
+      "summary": "记录研究愿景、可检验假设、原型路线与开发安全边界，作为项目的研究起点。",
+      "files": [
+        { "path": "docs/RESEARCH_PLAN.md", "change": "added", "ref": "088260d254546db2092b9839eb84a538aaaf15f5" },
+        { "path": "docs/SAFETY.md", "change": "added", "ref": "088260d254546db2092b9839eb84a538aaaf15f5" },
+        { "path": "AGENTS.md", "change": "added", "ref": "088260d254546db2092b9839eb84a538aaaf15f5" }
+      ],
+      "commits": ["088260d254546db2092b9839eb84a538aaaf15f5"]
+    }
+  ]
+}
