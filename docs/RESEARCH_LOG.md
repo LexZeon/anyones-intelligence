@@ -26,7 +26,7 @@ node scripts/build-research-log.mjs --check
 node --test tests/research-log.test.mjs
 ```
 
-生成器更新 `site/index.html` 中的研究日志区域，其余介绍保持不变。无 JavaScript 时日志仍可阅读；浏览器脚本只提供分类筛选。
+生成器更新 `site/index.html` 中的研究日志区域，其余介绍保持不变。无 JavaScript 时日志仍可阅读；浏览器脚本只提供分类筛选。修改样式或筛选脚本时，同步更新首页相应资源的 `v` 参数，避免浏览器继续使用旧缓存。
 
 检查生成结果后，将数据、生成后的首页及其他改动一并提交，再发布：
 
