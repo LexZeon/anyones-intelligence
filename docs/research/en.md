@@ -2,7 +2,7 @@
 
 **English** | [简体中文](zh-CN.md)
 
-**Version 1.0.0** · Recorded: **2026-11-07 02:26:49 PST (UTC−08:00)**
+**Version 1.0.1** · Recorded: **2026-11-07 03:03:42 PST (UTC−08:00)**
 
 Documentation version · America/Los_Angeles · [Version history](../../CHANGELOG.md)
 
@@ -55,7 +55,7 @@ Anyone's Intelligence is my project for learning about artificial intelligence a
 - **Two kinds of experience, and a sense of division**
   - I enjoy quantification, logic, and causal explanation, as well as the emotion and ambiguity that the arts and humanities bring.
   - I believe the world is physical, yet I always encounter it as an “I” with a body and feelings.
-  - **【Imagination / analogy】** “A rational virtual machine running on an affective system” is my metaphor for this division.
+  - **【Imagination / analogy】** “A rational virtual machine running on an emotional host operating system” is my metaphor for this division.
 - **The turning point Lacan offered**
   - “The linguistic structure of the unconscious” suggested a way to connect these experiences.
   - I want to develop my own theory from this inspiration.
@@ -70,7 +70,7 @@ I have been curious since childhood and have wanted to understand the world. I s
 
 Perhaps what drives me most is a fear of “going through life without understanding it,” more than the ambition to focus on one problem and achieve something in a single field. I enjoy the clarity of a rational world: things can be quantified, logical relationships can be identified, and causes can be investigated. I also enjoy the ambiguity, mixed with emotion, that comes from art, the humanities, and what I loosely call “metaphysical knowledge.”
 
-**【Philosophical position】** I have always understood the world as physical. I therefore believe that even what feels emotional, ambiguous, or difficult to articulate should ultimately admit some form of causal explanation and quantification. Yet the one encountering the world is always “I”: someone with a body, emotions, and a history of their own. **【Imagination / analogy】** “A rational virtual machine running on an affective system” expresses the division I once felt and my uncertainty about it.
+**【Philosophical position】** I have always understood the world as physical. I therefore believe that even what feels emotional, ambiguous, or difficult to articulate should ultimately admit some form of causal explanation and quantification. Yet the one encountering the world is always “I”: someone with a body, emotions, and a history of their own. **【Imagination / analogy】** “A rational virtual machine running on an emotional host operating system” expresses the division I once felt and my uncertainty about it.
 
 When I encountered philosophy, especially Lacanian psychoanalysis and its account of the unconscious and linguistic structure, I suddenly saw a possible connection. Feelings, language, and the body seemed traceable along a chain. I hope to follow this inspiration and develop my own explanation.
 
@@ -387,7 +387,7 @@ Whatever abstract relations a chain has passed through, it ultimately returns to
   - Words and other contents form a network through connections, and weights influence how much the relevant contents contribute.
   - “Fat” making a memory of being mocked more likely to contribute to the current process is an example of this resemblance.
   - Different inputs and current states engage different connections, suggesting a possible relationship to language models.
-- **A rational virtual machine and an affective system**
+- **A rational virtual machine and an emotional host operating system**
   - This metaphor expresses the division I once felt and prompted me to seek connections between feelings, language, and physical processes.
 - **Linguistic structure and a network of curves**
   - “The linguistic structure of the unconscious” is an important inspiration from which I want to develop my own explanation.
@@ -402,7 +402,7 @@ This network looks very much like a Transformer to me. A word can engage other c
 
 I want to preserve this sense of resemblance and keep asking: what correspondences and differences might exist between the words, memories, connections, and weights involved in understanding and those in existing language models?
 
-“A rational virtual machine running on an affective system” and the movement from “the infant” to “someone whose history already includes many such chains,” helped me articulate my questions. “The linguistic structure of the unconscious” then suggested a route connecting them. I want to preserve these ideas as they emerged while leaving room for further explanation and revision.
+“A rational virtual machine running on an emotional host operating system” and the movement from “the infant” to “someone whose history already includes many such chains” helped me articulate my questions. “The linguistic structure of the unconscious” then suggested a route connecting them. I want to preserve these ideas as they emerged while leaving room for further explanation and revision.
 
 > **【Scholarly note | Technical definition】Attention in the Transformer**
 >

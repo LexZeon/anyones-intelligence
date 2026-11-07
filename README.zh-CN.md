@@ -17,8 +17,8 @@ Anyone's Intelligence 是我学习人工智能、探索语言模型中模拟认�
 - [安全要求](docs/SAFETY.md)
 - [可编辑图源](assets/figures/source/README.md)
 
-**研究文档版本：** 1.0.0
+**研究文档版本：** 1.0.1
 
-**记录时间：** 2026-11-07 02:26:49 PST (UTC−08:00)
+**记录时间：** 2026-11-07 03:03:42 PST (UTC−08:00)
 
 联系：[lexzeonstudio@gmail.com](mailto:lexzeonstudio@gmail.com)

@@ -1,5 +1,11 @@
 # Version history
 
+## 1.0.1 — 2026-11-07
+
+Recorded: **2026-11-07 03:03:42 PST (UTC−08:00)**
+
+- Wording revised. / 修改措辞。
+
 ## 1.0.0 — 2026-11-07
 
 Recorded: **2026-11-07 02:26:49 PST (UTC−08:00)**\

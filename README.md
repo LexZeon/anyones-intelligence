@@ -17,8 +17,8 @@ Quantification is central to this work: I hope to translate changes in state, me
 - [Safety requirements](docs/SAFETY.md)
 - [Editable diagram sources](assets/figures/source/README.md)
 
-**Research documentation version:** 1.0.0
+**Research documentation version:** 1.0.1
 
-**Recorded:** 2026-11-07 02:26:49 PST (UTC−08:00)
+**Recorded:** 2026-11-07 03:03:42 PST (UTC−08:00)
 
 Contact: [lexzeonstudio@gmail.com](mailto:lexzeonstudio@gmail.com)
