@@ -1,0 +1,128 @@
+[
+  {
+    "language": "zh",
+    "name": "01_single_chain",
+    "width": 1200.0,
+    "height": 805.0,
+    "elements": 52
+  },
+  {
+    "language": "zh",
+    "name": "02_intersecting_memory_chains",
+    "width": 1200.0,
+    "height": 875.0,
+    "elements": 62
+  },
+  {
+    "language": "zh",
+    "name": "03_state_dependent_participation",
+    "width": 1200.0,
+    "height": 1420.0,
+    "elements": 102
+  },
+  {
+    "language": "zh",
+    "name": "01_intellectual_roots",
+    "width": 1200.0,
+    "height": 820.0,
+    "elements": 42
+  },
+  {
+    "language": "zh",
+    "name": "02_research_direction",
+    "width": 1200.0,
+    "height": 790.0,
+    "elements": 37
+  },
+  {
+    "language": "zh",
+    "name": "03_chain_to_model",
+    "width": 1200.0,
+    "height": 840.0,
+    "elements": 35
+  },
+  {
+    "language": "zh",
+    "name": "04_memory_encoding",
+    "width": 1200.0,
+    "height": 1060.0,
+    "elements": 38
+  },
+  {
+    "language": "zh",
+    "name": "07_foundation_and_history",
+    "width": 1200.0,
+    "height": 1030.0,
+    "elements": 33
+  },
+  {
+    "language": "zh",
+    "name": "08_transformer_analogy",
+    "width": 1200.0,
+    "height": 1110.0,
+    "elements": 51
+  },
+  {
+    "language": "en",
+    "name": "01_single_chain",
+    "width": 1200.0,
+    "height": 805.0,
+    "elements": 49
+  },
+  {
+    "language": "en",
+    "name": "02_intersecting_memory_chains",
+    "width": 1200.0,
+    "height": 875.0,
+    "elements": 59
+  },
+  {
+    "language": "en",
+    "name": "03_state_dependent_participation",
+    "width": 1200.0,
+    "height": 1420.0,
+    "elements": 96
+  },
+  {
+    "language": "en",
+    "name": "01_intellectual_roots",
+    "width": 1200.0,
+    "height": 820.0,
+    "elements": 42
+  },
+  {
+    "language": "en",
+    "name": "02_research_direction",
+    "width": 1200.0,
+    "height": 790.0,
+    "elements": 37
+  },
+  {
+    "language": "en",
+    "name": "03_chain_to_model",
+    "width": 1200.0,
+    "height": 840.0,
+    "elements": 35
+  },
+  {
+    "language": "en",
+    "name": "04_memory_encoding",
+    "width": 1200.0,
+    "height": 1060.0,
+    "elements": 38
+  },
+  {
+    "language": "en",
+    "name": "07_foundation_and_history",
+    "width": 1200.0,
+    "height": 1030.0,
+    "elements": 33
+  },
+  {
+    "language": "en",
+    "name": "08_transformer_analogy",
+    "width": 1200.0,
+    "height": 1110.0,
+    "elements": 51
+  }
+]

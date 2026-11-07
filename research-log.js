@@ -8,6 +8,7 @@
   const days = [...journal.querySelectorAll('[data-log-day]')];
   const status = journal.querySelector('.log-filter-status');
   if (!filters || !status || !buttons.length) return;
+  const chinese = document.documentElement.lang.toLowerCase().startsWith('zh');
 
   filters.hidden = false;
   for (const button of buttons) {
@@ -24,7 +25,9 @@
       for (const day of days) {
         day.hidden = ![...day.querySelectorAll('[data-log-type]')].some(entry => !entry.hidden);
       }
-      status.textContent = count ? `显示 ${count} 条更新` : '暂无该类型的更新';
+      status.textContent = chinese
+        ? (count ? `显示 ${count} 条更新` : '暂无该类型的更新')
+        : (count ? `${count} ${count === 1 ? 'update' : 'updates'} shown` : 'No updates of this type.');
     });
   }
 })();

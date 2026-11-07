@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="840" viewBox="0 0 1200 840">
+  <title>从参考链到模型模拟</title>
+  <rect width="100%" height="100%" fill="#ffffff" />
+  <rect x="0" y="0" width="1200" height="840" rx="0" fill="#FFFFFF" stroke="none" stroke-width="1" />
+  <text x="56" y="30" font-family="DejaVu Sans" font-size="14" font-weight="bold" fill="#0072B2" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">FIGURE 03</text>
+  <text x="1144" y="30" font-family="DejaVu Sans" font-size="14" font-weight="normal" fill="#5B6775" text-anchor="end" dominant-baseline="text-before-edge" xml:space="preserve">ANYONE'S INTELLIGENCE</text>
+  <text x="56" y="62" font-family="Microsoft YaHei" font-size="28" font-weight="bold" fill="#17212B" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">从参考链到模型模拟</text>
+  <text x="56" y="106" font-family="Microsoft YaHei" font-size="18" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">以物理基础和量化为出发点，探索状态与关系的模型对应。</text>
+  <polyline points="56,148 1144,148" fill="none" stroke="#CBD5E1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+  <text x="56" y="172" font-family="Microsoft YaHei" font-size="22" font-weight="bold" fill="#17212B" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">作者假说中的参考链</text>
+  <text x="1144" y="178" font-family="Microsoft YaHei" font-size="14" font-weight="bold" fill="#334155" text-anchor="end" dominant-baseline="text-before-edge" xml:space="preserve">参考来源</text>
+  <polyline points="384,283 424.5,283" fill="none" stroke="#0072B2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  <polygon points="432,283 422,287.2 422,278.8" fill="#0072B2" stroke="none" />
+  <polyline points="432,313 391.5,313" fill="none" stroke="#0072B2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  <polygon points="384,313 394,308.8 394,317.2" fill="#0072B2" stroke="none" />
+  <polyline points="768,298 808.5,298" fill="none" stroke="#0072B2" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+  <polygon points="816,298 806,302.2 806,293.8" fill="#0072B2" stroke="none" />
+  <rect x="56" y="218" width="320" height="164" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1" />
+  <text x="78" y="239" font-family="Microsoft YaHei" font-size="21" font-weight="bold" fill="#17212B" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">生理状态</text>
+  <text x="78" y="282" font-family="Microsoft YaHei" font-size="18" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">经历发生时的状态</text>
+  <text x="78" y="306.3" font-family="Microsoft YaHei" font-size="18" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">当前饥饿与生理反应</text>
+  <rect x="440" y="218" width="320" height="164" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1" />
+  <text x="462" y="239" font-family="Microsoft YaHei" font-size="21" font-weight="bold" fill="#17212B" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">记忆及其联系</text>
+  <text x="462" y="282" font-family="Microsoft YaHei" font-size="18" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">联系的形成与强化、基础权重</text>
+  <text x="462" y="306.3" font-family="Microsoft YaHei" font-size="18" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">共同的词／词元（token）和关系</text>
+  <rect x="824" y="218" width="320" height="164" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1" />
+  <text x="846" y="239" font-family="Microsoft YaHei" font-size="21" font-weight="bold" fill="#17212B" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">反应与行为</text>
+  <text x="846" y="282" font-family="Microsoft YaHei" font-size="18" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">多条联系共同参与</text>
+  <text x="846" y="306.3" font-family="Microsoft YaHei" font-size="18" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">结果随权重和当前状态变化</text>
+  <polyline points="216,382 216,414" fill="none" stroke="#CBD5E1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  <polyline points="600,382 600,414" fill="none" stroke="#CBD5E1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  <polyline points="984,382 984,414" fill="none" stroke="#CBD5E1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  <polyline points="216,414 984,414" fill="none" stroke="#CBD5E1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  <polyline points="600,414 600,518.5" fill="none" stroke="#0072B2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8 6" />
+  <polygon points="600,526 595.8,516 604.2,516" fill="#0072B2" stroke="none" />
+  <rect x="332" y="433" width="536" height="65" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1" />
+  <text x="600" y="451" font-family="Microsoft YaHei" font-size="18" font-weight="normal" fill="#5B6775" text-anchor="middle" dominant-baseline="text-before-edge" xml:space="preserve">具体模型对应关系尚待阐述</text>
+  <rect x="56" y="526" width="1088" height="214" rx="12" fill="#F2F8FC" stroke="#0072B2" stroke-width="2" />
+  <text x="84" y="549" font-family="Microsoft YaHei" font-size="14" font-weight="bold" fill="#0072B2" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">实现目标</text>
+  <text x="84" y="581" font-family="Microsoft YaHei" font-size="26" font-weight="bold" fill="#17212B" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">语言模型中的模拟认知</text>
+  <text x="84" y="625" font-family="Microsoft YaHei" font-size="18" font-weight="normal" fill="#17212B" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">将状态变化与关系结构转化为可量化、可运行的机制。</text>
+  <polyline points="84,662 1116,662" fill="none" stroke="#CBD5E1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+  <text x="84" y="681" font-family="Microsoft YaHei" font-size="18" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">量化关注：状态变化 · 联系形成与强化 · 各条联系的参与程度</text>
+  <polyline points="56,776 1144,776" fill="none" stroke="#CBD5E1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+  <text x="56" y="797" font-family="Microsoft YaHei" font-size="14" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">概念示意 · 区分参考来源与实现目标 · 未使用测量数值或激素曲线。</text>
+</svg>

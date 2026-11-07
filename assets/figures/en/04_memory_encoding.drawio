@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" type="device" compressed="false">
+  <diagram id="scene" name="Memory encoding: experience, state, and memory properties">
+    <mxGraphModel dx="1200" dy="1060" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1060" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="item-0-line-0" value="FIGURE 04" style="text;html=0;whiteSpace=nowrap;overflow=visible;verticalAlign=top;spacing=0;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;fillColor=none;strokeColor=none;align=left;fontFamily=DejaVu Sans;fontSize=15;fontStyle=1;fontColor=#5B6775;" vertex="1" parent="1">
+          <mxGeometry x="50" y="28" width="92.211719" height="20.25" as="geometry" />
+        </mxCell>
+        <mxCell id="item-1-line-0" value="Memory encoding: experience, state, and memory properties" style="text;html=0;whiteSpace=nowrap;overflow=visible;verticalAlign=top;spacing=0;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;fillColor=none;strokeColor=none;align=left;fontFamily=DejaVu Sans;fontSize=31;fontStyle=1;fontColor=#17212B;" vertex="1" parent="1">
+          <mxGeometry x="50" y="62" width="1077.995" height="41.85" as="geometry" />
+        </mxCell>
+        <mxCell id="item-2-line-0" value="Author's hypothesis | Using mockery about body weight to illustrate base weight and affective tone." style="text;html=0;whiteSpace=nowrap;overflow=visible;verticalAlign=top;spacing=0;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;fillColor=none;strokeColor=none;align=left;fontFamily=DejaVu Sans;fontSize=18;fontStyle=0;fontColor=#5B6775;" vertex="1" parent="1">
+          <mxGeometry x="50" y="111" width="907.16125" height="24.3" as="geometry" />
+        </mxCell>
+        <mxCell id="item-3" value="" style="edgeStyle=none;noEdgeStyle=1;orthogonalLoop=0;rounded=0;curved=0;html=0;startArrow=none;endArrow=none;strokeColor=#CBD5E1;strokeWidth=1.5;dashed=0;fixDash=1;dashPattern=8 6;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="174" as="sourcePoint" />
+            <mxPoint x="1150" y="174" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="item-4" value="" style="edgeStyle=none;noEdgeStyle=1;orthogonalLoop=0;rounded=0;curved=0;html=0;startArrow=none;endArrow=none;strokeColor=#0072B2;strokeWidth=2.8;dashed=0;fixDash=1;dashPattern=8 6;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="295" y="355" as="sourcePoint" />
+            <mxPoint x="505" y="422.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="295" y="393" />
+              <mxPoint x="505" y="393" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="item-4-arrow" value="" style="shape=triangle;direction=east;rotation=90;html=0;fillColor=#0072B2;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="500" y="420.8" width="10" height="8.4" as="geometry" />
+        </mxCell>
+        <mxCell id="item-5" value="" style="edgeStyle=none;noEdgeStyle=1;orthogonalLoop=0;rounded=0;curved=0;html=0;startArrow=none;endArrow=none;strokeColor=#D55E00;strokeWidth=2.8;dashed=0;fixDash=1;dashPattern=8 6;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="905" y="355" as="sourcePoint" />
+            <mxPoint x="695" y="422.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="905" y="393" />
+              <mxPoint x="695" y="393" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="item-5-arrow" value="" style="shape=triangle;direction=east;rotation=90;html=0;fillColor=#D55E00;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="690" y="420.8" width="10" height="8.4" as="geometry" />
+        </mxCell>
+        <mxCell id="item-6" value="" style="edgeStyle=none;noEdgeStyle=1;orthogonalLoop=0;rounded=0;curved=0;html=0;startArrow=none;endArrow=none;strokeColor=#0072B2;strokeWidth=2.8;dashed=0;fixDash=1;dashPattern=8 6;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="505" y="540" as="sourcePoint" />
+            <mxPoint x="295" y="632.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="505" y="591" />
+              <mxPoint x="295" y="591" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="item-6-arrow" value="" style="shape=triangle;direction=east;rotation=90;html=0;fillColor=#0072B2;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="630.8" width="10" height="8.4" as="geometry" />
+        </mxCell>
+        <mxCell id="item-7" value="" style="edgeStyle=none;noEdgeStyle=1;orthogonalLoop=0;rounded=0;curved=0;html=0;startArrow=none;endArrow=none;strokeColor=#D55E00;strokeWidth=2.8;dashed=0;fixDash=1;dashPattern=8 6;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="695" y="540" as="sourcePoint" />
+            <mxPoint x="905" y="632.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="695" y="591" />
+              <mxPoint x="905" y="591" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="item-7-arrow" value="" style="shape=triangle;direction=east;rotation=90;html=0;fillColor=#D55E00;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="900" y="630.8" width="10" height="8.4" as="geometry" />
+        </mxCell>
+        <mxCell id="item-8" value="" style="edgeStyle=none;noEdgeStyle=1;orthogonalLoop=0;rounded=0;curved=0;html=0;startArrow=none;endArrow=none;strokeColor=#0072B2;strokeWidth=2.8;dashed=0;fixDash=1;dashPattern=8 6;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="295" y="795" as="sourcePoint" />
+            <mxPoint x="295" y="857.5" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="item-8-arrow" value="" style="shape=triangle;direction=east;rotation=90;html=0;fillColor=#0072B2;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="855.8" width="10" height="8.4" as="geometry" />
+        </mxCell>
+        <mxCell id="item-9" value="" style="edgeStyle=none;noEdgeStyle=1;orthogonalLoop=0;rounded=0;curved=0;html=0;startArrow=none;endArrow=none;strokeColor=#D55E00;strokeWidth=2.8;dashed=1;fixDash=1;dashPattern=8 6;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="905" y="795" as="sourcePoint" />
+            <mxPoint x="905" y="865" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="item-10" value="" style="shape=rectangle;rounded=1;absoluteArcSize=1;arcSize=14;html=0;fillColor=#F2F8FC;strokeColor=#CBD5E1;strokeWidth=1.5;" vertex="1" parent="1">
+          <mxGeometry x="50" y="210" width="490" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="item-11" value="" style="shape=rectangle;rounded=0;absoluteArcSize=1;arcSize=0;html=0;fillColor=#0072B2;strokeColor=#0072B2;strokeWidth=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="210" width="5" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="item-12-line-0" value="An experience" style="text;html=0;whiteSpace=nowrap;overflow=visible;verticalAlign=top;spacing=0;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;fillColor=none;strokeColor=none;align=left;fontFamily=DejaVu Sans;fontSize=23;fontStyle=1;fontColor=#17212B;" vertex="1" parent="1">
+          <mxGeometry x="73" y="230" width="189.114063" height="31.05" as="geometry" />
+        </mxCell>
+        <mxCell id="item-13-line-0" value="Being mocked for being “fat”" style="text;html=0;whiteSpace=nowrap;overflow=visible;verticalAlign=top;spacing=0;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;fillColor=none;strokeColor=none;align=left;fontFamily=DejaVu Sans;fontSize=20;fontStyle=0;fontColor=#5B6775;" vertex="1" parent="1">
+          <mxGeometry x="73" y="269" width="295.55" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="item-14" value="" style="shape=rectangle;rounded=1;absoluteArcSize=1;arcSize=14;html=0;fillColor=#FFF6F0;strokeColor=#CBD5E1;strokeWidth=1.5;" vertex="1" parent="1">
+          <mxGeometry x="660" y="210" width="490" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="item-15" value="" style="shape=rectangle;rounded=0;absoluteArcSize=1;arcSize=0;html=0;fillColor=#D55E00;strokeColor=#D55E00;strokeWidth=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="210" width="5" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="item-16-line-0" value="Bodily state during encoding" style="text;html=0;whiteSpace=nowrap;overflow=visible;verticalAlign=top;spacing=0;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;fillColor=none;strokeColor=none;align=left;fontFamily=DejaVu Sans;fontSize=22;fontStyle=1;fontColor=#17212B;" vertex="1" parent="1">
+          <mxGeometry x="683" y="230" width="362.569063" height="29.7" as="geometry" />
+        </mxCell>
+        <mxCell id="item-17-line-0" value="For example, stress responses involving" style="text;html=0;whiteSpace=nowrap;overflow=visible;verticalAlign=top;spacing=0;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;fillColor=none;strokeColor=none;align=left;fontFamily=DejaVu Sans;fontSize=19;fontStyle=0;fontColor=#5B6775;" vertex="1" parent="1">
+          <mxGeometry x="683" y="269" width="384.184062" height="25.65" as="geometry" />
+        </mxCell>
+        <mxCell id="item-17-line-1" value="cortisol and adrenaline" style="text;html=0;whiteSpace=nowrap;overflow=visible;verticalAlign=top;spacing=0;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;fillColor=none;strokeColor=none;align=left;fontFamily=DejaVu Sans;fontSize=19;fontStyle=0;fontColor=#5B6775;" vertex="1" parent="1">
+          <mxGeometry x="683" y="294.65" width="221.998281" height="25.65" as="geometry" />
+        </mxCell>
+        <mxCell id="item-18" value="" style="shape=rectangle;rounded=1;absoluteArcSize=1;arcSize=14;html=0;fillColor=#F8FAFC;strokeColor=#CBD5E1;strokeWidth=1.5;" vertex="1" parent="1">
+          <mxGeometry x="400" y="430" width="400" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="item-19" value="" style="shape=rectangle;rounded=0;absoluteArcSize=1;arcSize=0;html=0;fillColor=#334155;strokeColor=#334155;strokeWidth=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="430" width="5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="item-20-line-0" value="Memory encoding" style="text;html=0;whiteSpace=nowrap;overflow=visible;verticalAlign=top;spacing=0;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;fillColor=none;strokeColor=none;align=left;fontFamily=DejaVu Sans;fontSize=23;fontStyle=1;fontColor=#17212B;" vertex="1" parent="1">
+          <mxGeometry x="423" y="450" width="235.193125" height="31.05" as="geometry" />
+        </mxCell>
+        <mxCell id="item-21-line-0" value="Experience and bodily state are linked" style="text;html=0;whiteSpace=nowrap;overflow=visible;verticalAlign=top;spacing=0;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;fillColor=none;strokeColor=none;align=left;fontFamily=DejaVu Sans;fontSize=18;fontStyle=0;fontColor=#5B6775;" vertex="1" parent="1">
+          <mxGeometry x="423" y="489" width="349.777187" height="24.3" as="geometry" />
+        </mxCell>
+        <mxCell id="item-22" value="" style="shape=rectangle;rounded=1;absoluteArcSize=1;arcSize=14;html=0;fillColor=#F2F8FC;strokeColor=#CBD5E1;strokeWidth=1.5;" vertex="1" parent="1">
+          <mxGeometry x="50" y="640" width="490" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="item-23" value="" style="shape=rectangle;rounded=0;absoluteArcSize=1;arcSize=0;html=0;fillColor=#0072B2;strokeColor=#0072B2;strokeWidth=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="640" width="5" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="item-24-line-0" value="Base weight" style="text;html=0;whiteSpace=nowrap;overflow=visible;verticalAlign=top;spacing=0;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;fillColor=none;strokeColor=none;align=left;fontFamily=DejaVu Sans;fontSize=23;fontStyle=1;fontColor=#17212B;" vertex="1" parent="1">
+          <mxGeometry x="73" y="660" width="162.912031" height="31.05" as="geometry" />
+        </mxCell>
+        <mxCell id="item-25-line-0" value="Higher in this example;" style="text;html=0;whiteSpace=nowrap;overflow=visible;verticalAlign=top;spacing=0;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;fillColor=none;strokeColor=none;align=left;fontFamily=DejaVu Sans;fontSize=19;fontStyle=0;fontColor=#5B6775;" vertex="1" parent="1">
+          <mxGeometry x="73" y="699" width="225.459844" height="25.65" as="geometry" />
+        </mxCell>
+        <mxCell id="item-25-line-1" value="influences the tendency to be recalled" style="text;html=0;whiteSpace=nowrap;overflow=visible;verticalAlign=top;spacing=0;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;fillColor=none;strokeColor=none;align=left;fontFamily=DejaVu Sans;fontSize=19;fontStyle=0;fontColor=#5B6775;" vertex="1" parent="1">
+          <mxGeometry x="73" y="724.65" width="369.447187" height="25.65" as="geometry" />
+        </mxCell>
+        <mxCell id="item-26" value="" style="shape=rectangle;rounded=1;absoluteArcSize=1;arcSize=14;html=0;fillColor=#FFF6F0;strokeColor=#CBD5E1;strokeWidth=1.5;" vertex="1" parent="1">
+          <mxGeometry x="660" y="640" width="490" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="item-27" value="" style="shape=rectangle;rounded=0;absoluteArcSize=1;arcSize=0;html=0;fillColor=#D55E00;strokeColor=#D55E00;strokeWidth=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="640" width="5" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="item-28-line-0" value="“Base color”" style="text;html=0;whiteSpace=nowrap;overflow=visible;verticalAlign=top;spacing=0;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;fillColor=none;strokeColor=none;align=left;fontFamily=DejaVu Sans;fontSize=23;fontStyle=1;fontColor=#17212B;" vertex="1" parent="1">
+          <mxGeometry x="683" y="660" width="169.470625" height="31.05" as="geometry" />
+        </mxCell>
+        <mxCell id="item-29-line-0" value="The affective tone a memory carries," style="text;html=0;whiteSpace=nowrap;overflow=visible;verticalAlign=top;spacing=0;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;fillColor=none;strokeColor=none;align=left;fontFamily=DejaVu Sans;fontSize=19;fontStyle=0;fontColor=#5B6775;" vertex="1" parent="1">
+          <mxGeometry x="683" y="699" width="356.185781" height="25.65" as="geometry" />
+        </mxCell>
+        <mxCell id="item-29-line-1" value="such as anxiety or fear" style="text;html=0;whiteSpace=nowrap;overflow=visible;verticalAlign=top;spacing=0;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;fillColor=none;strokeColor=none;align=left;fontFamily=DejaVu Sans;fontSize=19;fontStyle=0;fontColor=#5B6775;" vertex="1" parent="1">
+          <mxGeometry x="683" y="724.65" width="221.986406" height="25.65" as="geometry" />
+        </mxCell>
+        <mxCell id="item-30" value="" style="shape=rectangle;rounded=1;absoluteArcSize=1;arcSize=14;html=0;fillColor=#FFFFFF;strokeColor=#0072B2;strokeWidth=1.5;" vertex="1" parent="1">
+          <mxGeometry x="50" y="865" width="490" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="item-31-line-0" value="More readily evoked by related cues" style="text;html=0;whiteSpace=nowrap;overflow=visible;verticalAlign=top;spacing=0;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;fillColor=none;strokeColor=none;align=center;fontFamily=DejaVu Sans;fontSize=20;fontStyle=0;fontColor=#17212B;" vertex="1" parent="1">
+          <mxGeometry x="111.359375" y="882" width="367.28125" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="item-32-line-0" value="A recall tendency, not guaranteed recall" style="text;html=0;whiteSpace=nowrap;overflow=visible;verticalAlign=top;spacing=0;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;fillColor=none;strokeColor=none;align=center;fontFamily=DejaVu Sans;fontSize=16;fontStyle=0;fontColor=#5B6775;" vertex="1" parent="1">
+          <mxGeometry x="131.9025" y="916" width="326.195" height="21.6" as="geometry" />
+        </mxCell>
+        <mxCell id="item-33" value="" style="shape=rectangle;rounded=1;absoluteArcSize=1;arcSize=14;html=0;fillColor=#FFFFFF;strokeColor=#D55E00;strokeWidth=1.5;" vertex="1" parent="1">
+          <mxGeometry x="660" y="865" width="490" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="item-34-line-0" value="Associated with later avoidance" style="text;html=0;whiteSpace=nowrap;overflow=visible;verticalAlign=top;spacing=0;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;fillColor=none;strokeColor=none;align=center;fontFamily=DejaVu Sans;fontSize=20;fontStyle=0;fontColor=#17212B;" vertex="1" parent="1">
+          <mxGeometry x="743.546875" y="882" width="322.90625" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="item-35-line-0" value="Also linked to innate approach–avoidance" style="text;html=0;whiteSpace=nowrap;overflow=visible;verticalAlign=top;spacing=0;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;fillColor=none;strokeColor=none;align=center;fontFamily=DejaVu Sans;fontSize=16;fontStyle=0;fontColor=#5B6775;" vertex="1" parent="1">
+          <mxGeometry x="736.2875" y="916" width="337.425" height="21.6" as="geometry" />
+        </mxCell>
+        <mxCell id="item-36" value="" style="edgeStyle=none;noEdgeStyle=1;orthogonalLoop=0;rounded=0;curved=0;html=0;startArrow=none;endArrow=none;strokeColor=#CBD5E1;strokeWidth=1;dashed=0;fixDash=1;dashPattern=8 6;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="985" as="sourcePoint" />
+            <mxPoint x="1150" y="985" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="item-37-line-0" value="Arrows show proposed relations; the dashed line marks an association." style="text;html=0;whiteSpace=nowrap;overflow=visible;verticalAlign=top;spacing=0;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;fillColor=none;strokeColor=none;align=left;fontFamily=DejaVu Sans;fontSize=16;fontStyle=0;fontColor=#5B6775;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1003" width="573.0725" height="21.6" as="geometry" />
+        </mxCell>
+        <mxCell id="item-37-line-1" value="No fixed formula, probability, or validated encoding mechanism is specified." style="text;html=0;whiteSpace=nowrap;overflow=visible;verticalAlign=top;spacing=0;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;fillColor=none;strokeColor=none;align=left;fontFamily=DejaVu Sans;fontSize=16;fontStyle=0;fontColor=#5B6775;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1024.6" width="614.2625" height="21.6" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

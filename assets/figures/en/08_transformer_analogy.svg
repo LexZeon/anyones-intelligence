@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1110" viewBox="0 0 1200 1110">
+  <title>Memory networks and attention: an analogy, not equivalence</title>
+  <rect width="100%" height="100%" fill="#ffffff" />
+  <text x="50" y="28" font-family="DejaVu Sans" font-size="15" font-weight="bold" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">FIGURE 08</text>
+  <text x="50" y="62" font-family="DejaVu Sans" font-size="31" font-weight="bold" fill="#17212B" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">Memory networks and attention: an analogy, not equivalence</text>
+  <text x="50" y="111" font-family="DejaVu Sans" font-size="18" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">An author-proposed resemblance beside the technical definition of attention; no new architecture is specified.</text>
+  <polyline points="50,174 1150,174" fill="none" stroke="#CBD5E1" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+  <text x="76" y="207" font-family="DejaVu Sans" font-size="23" font-weight="bold" fill="#0072B2" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">The author's memory network</text>
+  <text x="658" y="207" font-family="DejaVu Sans" font-size="22" font-weight="bold" fill="#D55E00" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">Transformer attention | Definition</text>
+  <rect x="50" y="249" width="514" height="570" rx="7" fill="#F2F8FC" stroke="#CBD5E1" stroke-width="1" />
+  <rect x="636" y="249" width="514" height="570" rx="7" fill="#FFF6F0" stroke="#CBD5E1" stroke-width="1" />
+  <polyline points="307,403 307,466.5" fill="none" stroke="#0072B2" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" />
+  <polygon points="307,474 302.8,464 311.2,464" fill="#0072B2" stroke="none" />
+  <polyline points="307,601 307,662.5" fill="none" stroke="#0072B2" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" />
+  <polygon points="307,670 302.8,660 311.2,660" fill="#0072B2" stroke="none" />
+  <rect x="83" y="283" width="448" height="120" rx="7" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5" />
+  <rect x="83" y="283" width="5" height="120" rx="0" fill="#0072B2" stroke="#0072B2" stroke-width="0" />
+  <text x="106" y="303" font-family="DejaVu Sans" font-size="22" font-weight="bold" fill="#17212B" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">5.4 Words / tokens</text>
+  <text x="106" y="342" font-family="DejaVu Sans" font-size="19" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">How words and relations engage</text>
+  <text x="106" y="367.65" font-family="DejaVu Sans" font-size="19" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">relevant memories</text>
+  <rect x="83" y="474" width="448" height="127" rx="7" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5" />
+  <rect x="83" y="474" width="5" height="127" rx="0" fill="#0072B2" stroke="#0072B2" stroke-width="0" />
+  <text x="106" y="494" font-family="DejaVu Sans" font-size="18.5" font-weight="bold" fill="#17212B" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">5.5 Weights and joint contribution</text>
+  <text x="106" y="533" font-family="DejaVu Sans" font-size="19" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">Multiple weighted contributions,</text>
+  <text x="106" y="558.65" font-family="DejaVu Sans" font-size="19" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">modulated by the current bodily state</text>
+  <rect x="83" y="670" width="448" height="100" rx="7" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5" />
+  <rect x="83" y="670" width="5" height="100" rx="0" fill="#0072B2" stroke="#0072B2" stroke-width="0" />
+  <text x="106" y="690" font-family="DejaVu Sans" font-size="19" font-weight="bold" fill="#17212B" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">Present understanding and response</text>
+  <text x="106" y="729" font-family="DejaVu Sans" font-size="18" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">Relevant contents contribute together</text>
+  <polyline points="770,373 770,407 798,407 798,432.5" fill="none" stroke="#D55E00" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" />
+  <polygon points="798,440 793.8,430 802.2,430" fill="#D55E00" stroke="none" />
+  <polyline points="1012,373 1012,407 990,407 990,432.5" fill="none" stroke="#D55E00" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" />
+  <polygon points="990,440 985.8,430 994.2,430" fill="#D55E00" stroke="none" />
+  <polyline points="893,540 893,581 991,581 991,620.5" fill="none" stroke="#D55E00" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" />
+  <polygon points="991,628 986.8,618 995.2,618" fill="#D55E00" stroke="none" />
+  <polyline points="812,696 856.5,696" fill="none" stroke="#D55E00" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" />
+  <polygon points="864,696 854,700.2 854,691.8" fill="#D55E00" stroke="none" />
+  <rect x="668" y="283" width="204" height="90" rx="7" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5" />
+  <rect x="668" y="283" width="5" height="90" rx="0" fill="#D55E00" stroke="#D55E00" stroke-width="0" />
+  <text x="691" y="303" font-family="DejaVu Sans" font-size="23" font-weight="bold" fill="#17212B" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">Q</text>
+  <text x="691" y="342" font-family="DejaVu Sans" font-size="18" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">Query vectors</text>
+  <rect x="906" y="283" width="212" height="90" rx="7" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5" />
+  <rect x="906" y="283" width="5" height="90" rx="0" fill="#D55E00" stroke="#D55E00" stroke-width="0" />
+  <text x="929" y="303" font-family="DejaVu Sans" font-size="23" font-weight="bold" fill="#17212B" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">K</text>
+  <text x="929" y="342" font-family="DejaVu Sans" font-size="18" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">Key vectors</text>
+  <rect x="668" y="440" width="450" height="100" rx="7" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5" />
+  <rect x="668" y="440" width="5" height="100" rx="0" fill="#D55E00" stroke="#D55E00" stroke-width="0" />
+  <text x="691" y="460" font-family="DejaVu Sans" font-size="22" font-weight="bold" fill="#17212B" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">Q / K compatibility → weights</text>
+  <text x="691" y="499" font-family="DejaVu Sans" font-size="18" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">Compatibility determines the weights</text>
+  <rect x="668" y="638" width="144" height="132" rx="7" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5" />
+  <rect x="668" y="638" width="5" height="132" rx="0" fill="#D55E00" stroke="#D55E00" stroke-width="0" />
+  <text x="691" y="658" font-family="DejaVu Sans" font-size="23" font-weight="bold" fill="#17212B" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">V</text>
+  <text x="691" y="697" font-family="DejaVu Sans" font-size="18" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">Value</text>
+  <text x="691" y="721.3" font-family="DejaVu Sans" font-size="18" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">vectors</text>
+  <rect x="864" y="628" width="254" height="142" rx="7" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5" />
+  <rect x="864" y="628" width="5" height="142" rx="0" fill="#D55E00" stroke="#D55E00" stroke-width="0" />
+  <text x="887" y="648" font-family="DejaVu Sans" font-size="21" font-weight="bold" fill="#17212B" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">Weighted sum</text>
+  <text x="887" y="687" font-family="DejaVu Sans" font-size="18" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">of V vectors</text>
+  <text x="887" y="711.3" font-family="DejaVu Sans" font-size="18" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">→ attention output</text>
+  <rect x="50" y="856" width="1100" height="144" rx="7" fill="#FFFFFF" stroke="#334155" stroke-width="1.5" />
+  <text x="76" y="880" font-family="DejaVu Sans" font-size="23" font-weight="bold" fill="#17212B" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">The analogy concerns connections, weights, and multiple contributions</text>
+  <text x="76" y="925" font-family="DejaVu Sans" font-size="19" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">This account does not specify component correspondences: memory is not identified with V,</text>
+  <text x="76" y="950.65" font-family="DejaVu Sans" font-size="19" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">tokens with Q / K, or physiological states with attention weights.</text>
+  <polyline points="50,1034 1150,1034" fill="none" stroke="#CBD5E1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+  <text x="50" y="1052" font-family="DejaVu Sans" font-size="16" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">Left: the author's hypothesis and analogy. Right: the attention definition in Vaswani et al., §3.2.</text>
+  <text x="50" y="1073.6" font-family="DejaVu Sans" font-size="16" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">No experimental data or additional model mechanism is shown.</text>
+</svg>

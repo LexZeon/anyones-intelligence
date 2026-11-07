@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" type="device" compressed="false">
+  <diagram id="scene" name="认识世界的路径与项目起点">
+    <mxGraphModel dx="1200" dy="820" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="820" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="item-0" value="" style="shape=rectangle;rounded=0;absoluteArcSize=1;arcSize=0;html=0;fillColor=#FFFFFF;strokeColor=none;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="0" y="0" width="1200" height="820" as="geometry" />
+        </mxCell>
+        <mxCell id="item-1-line-0" value="FIGURE 01" style="text;html=0;whiteSpace=nowrap;overflow=visible;verticalAlign=top;spacing=0;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;fillColor=none;strokeColor=none;align=left;fontFamily=DejaVu Sans;fontSize=14;fontStyle=1;fontColor=#0072B2;" vertex="1" parent="1">
+          <mxGeometry x="56" y="30" width="86.330938" height="18.9" as="geometry" />
+        </mxCell>
+        <mxCell id="item-2-line-0" value="ANYONE'S INTELLIGENCE" style="text;html=0;whiteSpace=nowrap;overflow=visible;verticalAlign=top;spacing=0;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;fillColor=none;strokeColor=none;align=right;fontFamily=DejaVu Sans;fontSize=14;fontStyle=0;fontColor=#5B6775;" vertex="1" parent="1">
+          <mxGeometry x="964.11625" y="30" width="179.88375" height="18.9" as="geometry" />
+        </mxCell>
+        <mxCell id="item-3-line-0" value="认识世界的路径与项目起点" style="text;html=0;whiteSpace=nowrap;overflow=visible;verticalAlign=top;spacing=0;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;fillColor=none;strokeColor=none;align=left;fontFamily=Microsoft YaHei;fontSize=28;fontStyle=1;fontColor=#17212B;" vertex="1" parent="1">
+          <mxGeometry x="56" y="62" width="340" height="37.8" as="geometry" />
+        </mxCell>
+        <mxCell id="item-4-line-0" value="不同知识与自身体验，汇合为对智能与模型的探索。" style="text;html=0;whiteSpace=nowrap;overflow=visible;verticalAlign=top;spacing=0;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;fillColor=none;strokeColor=none;align=left;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;fontColor=#5B6775;" vertex="1" parent="1">
+          <mxGeometry x="56" y="106" width="418" height="24.3" as="geometry" />
+        </mxCell>
+        <mxCell id="item-5" value="" style="edgeStyle=none;noEdgeStyle=1;orthogonalLoop=0;rounded=0;curved=0;html=0;startArrow=none;endArrow=none;strokeColor=#CBD5E1;strokeWidth=1;dashed=0;fixDash=1;dashPattern=8 6;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="56" y="148" as="sourcePoint" />
+            <mxPoint x="1144" y="148" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="item-6" value="" style="edgeStyle=none;noEdgeStyle=1;orthogonalLoop=0;rounded=0;curved=0;html=0;startArrow=none;endArrow=none;strokeColor=#CBD5E1;strokeWidth=2;dashed=0;fixDash=1;dashPattern=8 6;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="508" y="242" as="sourcePoint" />
+            <mxPoint x="580" y="242" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="item-7" value="" style="edgeStyle=none;noEdgeStyle=1;orthogonalLoop=0;rounded=0;curved=0;html=0;startArrow=none;endArrow=none;strokeColor=#CBD5E1;strokeWidth=2;dashed=0;fixDash=1;dashPattern=8 6;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="508" y="384" as="sourcePoint" />
+            <mxPoint x="580" y="384" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="item-8" value="" style="edgeStyle=none;noEdgeStyle=1;orthogonalLoop=0;rounded=0;curved=0;html=0;startArrow=none;endArrow=none;strokeColor=#CBD5E1;strokeWidth=2;dashed=0;fixDash=1;dashPattern=8 6;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="508" y="526" as="sourcePoint" />
+            <mxPoint x="580" y="526" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="item-9" value="" style="edgeStyle=none;noEdgeStyle=1;orthogonalLoop=0;rounded=0;curved=0;html=0;startArrow=none;endArrow=none;strokeColor=#CBD5E1;strokeWidth=2;dashed=0;fixDash=1;dashPattern=8 6;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="508" y="668" as="sourcePoint" />
+            <mxPoint x="580" y="668" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="item-10" value="" style="edgeStyle=none;noEdgeStyle=1;orthogonalLoop=0;rounded=0;curved=0;html=0;startArrow=none;endArrow=none;strokeColor=#CBD5E1;strokeWidth=2;dashed=0;fixDash=1;dashPattern=8 6;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="242" as="sourcePoint" />
+            <mxPoint x="580" y="668" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="item-11" value="" style="edgeStyle=none;noEdgeStyle=1;orthogonalLoop=0;rounded=0;curved=0;html=0;startArrow=none;endArrow=none;strokeColor=#0072B2;strokeWidth=3;dashed=0;fixDash=1;dashPattern=8 6;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="473" as="sourcePoint" />
+            <mxPoint x="640.5" y="473" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="item-11-arrow" value="" style="shape=triangle;direction=east;rotation=0;html=0;fillColor=#0072B2;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="638" y="468.8" width="10" height="8.4" as="geometry" />
+        </mxCell>
+        <mxCell id="item-12" value="" style="shape=ellipse;perimeter=ellipsePerimeter;html=0;fillColor=#0072B2;strokeColor=#FFFFFF;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="575" y="468" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="item-13" value="" style="shape=rectangle;rounded=1;absoluteArcSize=1;arcSize=20;html=0;fillColor=#FFFFFF;strokeColor=#CBD5E1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="56" y="180" width="452" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="item-14" value="" style="shape=rectangle;rounded=0;absoluteArcSize=1;arcSize=0;html=0;fillColor=#0072B2;strokeColor=none;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="56" y="198" width="4" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="item-15-line-0" value="自然科学" style="text;html=0;whiteSpace=nowrap;overflow=visible;verticalAlign=top;spacing=0;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;fillColor=none;strokeColor=none;align=left;fontFamily=Microsoft YaHei;fontSize=21;fontStyle=1;fontColor=#17212B;" vertex="1" parent="1">
+          <mxGeometry x="80" y="197" width="88" height="28.35" as="geometry" />
+        </mxCell>
+        <mxCell id="item-16-line-0" value="物理、化学、生物、数学" style="text;html=0;whiteSpace=nowrap;overflow=visible;verticalAlign=top;spacing=0;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;fillColor=none;strokeColor=none;align=left;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;fontColor=#5B6775;" vertex="1" parent="1">
+          <mxGeometry x="80" y="232" width="202" height="24.3" as="geometry" />
+        </mxCell>
+        <mxCell id="item-16-line-1" value="量子力学、地理" style="text;html=0;whiteSpace=nowrap;overflow=visible;verticalAlign=top;spacing=0;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;fillColor=none;strokeColor=none;align=left;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;fontColor=#5B6775;" vertex="1" parent="1">
+          <mxGeometry x="80" y="256.3" width="130" height="24.3" as="geometry" />
+        </mxCell>
+        <mxCell id="item-17" value="" style="shape=rectangle;rounded=1;absoluteArcSize=1;arcSize=20;html=0;fillColor=#FFFFFF;strokeColor=#CBD5E1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="56" y="322" width="452" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="item-18" value="" style="shape=rectangle;rounded=0;absoluteArcSize=1;arcSize=0;html=0;fillColor=#D55E00;strokeColor=none;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="56" y="340" width="4" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="item-19-line-0" value="人文与艺术" style="text;html=0;whiteSpace=nowrap;overflow=visible;verticalAlign=top;spacing=0;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;fillColor=none;strokeColor=none;align=left;fontFamily=Microsoft YaHei;fontSize=21;fontStyle=1;fontColor=#17212B;" vertex="1" parent="1">
+          <mxGeometry x="80" y="339" width="109" height="28.35" as="geometry" />
+        </mxCell>
+        <mxCell id="item-20-line-0" value="艺术史、艺术、哲学、文学" style="text;html=0;whiteSpace=nowrap;overflow=visible;verticalAlign=top;spacing=0;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;fillColor=none;strokeColor=none;align=left;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;fontColor=#5B6775;" vertex="1" parent="1">
+          <mxGeometry x="80" y="374" width="220" height="24.3" as="geometry" />
+        </mxCell>
+        <mxCell id="item-20-line-1" value="历史、政治、心理学、人文地理" style="text;html=0;whiteSpace=nowrap;overflow=visible;verticalAlign=top;spacing=0;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;fillColor=none;strokeColor=none;align=left;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;fontColor=#5B6775;" vertex="1" parent="1">
+          <mxGeometry x="80" y="398.3" width="256" height="24.3" as="geometry" />
+        </mxCell>
+        <mxCell id="item-21" value="" style="shape=rectangle;rounded=1;absoluteArcSize=1;arcSize=20;html=0;fillColor=#FFFFFF;strokeColor=#CBD5E1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="56" y="464" width="452" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="item-22" value="" style="shape=rectangle;rounded=0;absoluteArcSize=1;arcSize=0;html=0;fillColor=#334155;strokeColor=none;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="56" y="482" width="4" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="item-23-line-0" value="自身体验" style="text;html=0;whiteSpace=nowrap;overflow=visible;verticalAlign=top;spacing=0;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;fillColor=none;strokeColor=none;align=left;fontFamily=Microsoft YaHei;fontSize=21;fontStyle=1;fontColor=#17212B;" vertex="1" parent="1">
+          <mxGeometry x="80" y="481" width="88" height="28.35" as="geometry" />
+        </mxCell>
+        <mxCell id="item-24-line-0" value="好奇、感受、生活中的认识与疑问" style="text;html=0;whiteSpace=nowrap;overflow=visible;verticalAlign=top;spacing=0;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;fillColor=none;strokeColor=none;align=left;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;fontColor=#5B6775;" vertex="1" parent="1">
+          <mxGeometry x="80" y="516" width="274" height="24.3" as="geometry" />
+        </mxCell>
+        <mxCell id="item-24-line-1" value="理性理解与带着情绪的模糊感" style="text;html=0;whiteSpace=nowrap;overflow=visible;verticalAlign=top;spacing=0;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;fillColor=none;strokeColor=none;align=left;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;fontColor=#5B6775;" vertex="1" parent="1">
+          <mxGeometry x="80" y="540.3" width="238" height="24.3" as="geometry" />
+        </mxCell>
+        <mxCell id="item-25" value="" style="shape=rectangle;rounded=1;absoluteArcSize=1;arcSize=20;html=0;fillColor=#FFFFFF;strokeColor=#CBD5E1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="56" y="606" width="452" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="item-26" value="" style="shape=rectangle;rounded=0;absoluteArcSize=1;arcSize=0;html=0;fillColor=#0072B2;strokeColor=none;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="56" y="624" width="4" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="item-27-line-0" value="拉康带来的启发" style="text;html=0;whiteSpace=nowrap;overflow=visible;verticalAlign=top;spacing=0;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;fillColor=none;strokeColor=none;align=left;fontFamily=Microsoft YaHei;fontSize=21;fontStyle=1;fontColor=#17212B;" vertex="1" parent="1">
+          <mxGeometry x="80" y="623" width="151" height="28.35" as="geometry" />
+        </mxCell>
+        <mxCell id="item-28-line-0" value="“无意识的语言结构”" style="text;html=0;whiteSpace=nowrap;overflow=visible;verticalAlign=top;spacing=0;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;fillColor=none;strokeColor=none;align=left;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;fontColor=#5B6775;" vertex="1" parent="1">
+          <mxGeometry x="80" y="658" width="184" height="24.3" as="geometry" />
+        </mxCell>
+        <mxCell id="item-28-line-1" value="从这一启发发展自己的解释" style="text;html=0;whiteSpace=nowrap;overflow=visible;verticalAlign=top;spacing=0;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;fillColor=none;strokeColor=none;align=left;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;fontColor=#5B6775;" vertex="1" parent="1">
+          <mxGeometry x="80" y="682.3" width="220" height="24.3" as="geometry" />
+        </mxCell>
+        <mxCell id="item-29" value="" style="shape=rectangle;rounded=1;absoluteArcSize=1;arcSize=20;html=0;fillColor=#F8FAFC;strokeColor=#CBD5E1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="648" y="180" width="496" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="item-30-line-0" value="个人动机" style="text;html=0;whiteSpace=nowrap;overflow=visible;verticalAlign=top;spacing=0;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;fillColor=none;strokeColor=none;align=left;fontFamily=Microsoft YaHei;fontSize=14;fontStyle=1;fontColor=#334155;" vertex="1" parent="1">
+          <mxGeometry x="672" y="200" width="60" height="18.9" as="geometry" />
+        </mxCell>
+        <mxCell id="item-31-line-0" value="理解世界，也理解自己" style="text;html=0;whiteSpace=nowrap;overflow=visible;verticalAlign=top;spacing=0;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;fillColor=none;strokeColor=none;align=left;fontFamily=Microsoft YaHei;fontSize=22;fontStyle=1;fontColor=#17212B;" vertex="1" parent="1">
+          <mxGeometry x="672" y="231" width="224" height="29.7" as="geometry" />
+        </mxCell>
+        <mxCell id="item-32-line-0" value="把生活中的认识与疑问积累为研究材料。" style="text;html=0;whiteSpace=nowrap;overflow=visible;verticalAlign=top;spacing=0;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;fillColor=none;strokeColor=none;align=left;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;fontColor=#5B6775;" vertex="1" parent="1">
+          <mxGeometry x="672" y="267" width="328" height="24.3" as="geometry" />
+        </mxCell>
+        <mxCell id="item-33" value="" style="shape=rectangle;rounded=1;absoluteArcSize=1;arcSize=24;html=0;fillColor=#F2F8FC;strokeColor=#0072B2;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="648" y="358" width="496" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="item-34-line-0" value="项目方向" style="text;html=0;whiteSpace=nowrap;overflow=visible;verticalAlign=top;spacing=0;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;fillColor=none;strokeColor=none;align=left;fontFamily=Microsoft YaHei;fontSize=14;fontStyle=1;fontColor=#0072B2;" vertex="1" parent="1">
+          <mxGeometry x="676" y="382" width="60" height="18.9" as="geometry" />
+        </mxCell>
+        <mxCell id="item-35-line-0" value="Anyone's Intelligence" style="text;html=0;whiteSpace=nowrap;overflow=visible;verticalAlign=top;spacing=0;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;fillColor=none;strokeColor=none;align=left;fontFamily=DejaVu Sans;fontSize=26;fontStyle=1;fontColor=#17212B;" vertex="1" parent="1">
+          <mxGeometry x="676" y="417" width="318.855938" height="35.1" as="geometry" />
+        </mxCell>
+        <mxCell id="item-36-line-0" value="学习人工智能" style="text;html=0;whiteSpace=nowrap;overflow=visible;verticalAlign=top;spacing=0;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;fillColor=none;strokeColor=none;align=left;fontFamily=Microsoft YaHei;fontSize=22;fontStyle=0;fontColor=#17212B;" vertex="1" parent="1">
+          <mxGeometry x="676" y="467" width="136" height="29.7" as="geometry" />
+        </mxCell>
+        <mxCell id="item-36-line-1" value="探索语言模型中的模拟认知" style="text;html=0;whiteSpace=nowrap;overflow=visible;verticalAlign=top;spacing=0;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;fillColor=none;strokeColor=none;align=left;fontFamily=Microsoft YaHei;fontSize=22;fontStyle=0;fontColor=#17212B;" vertex="1" parent="1">
+          <mxGeometry x="676" y="496.7" width="268" height="29.7" as="geometry" />
+        </mxCell>
+        <mxCell id="item-37" value="" style="shape=rectangle;rounded=1;absoluteArcSize=1;arcSize=20;html=0;fillColor=#FFFFFF;strokeColor=#CBD5E1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="648" y="632" width="496" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="item-38" value="" style="shape=rectangle;rounded=0;absoluteArcSize=1;arcSize=0;html=0;fillColor=#D55E00;strokeColor=none;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="648" y="650" width="4" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="item-39-line-0" value="感情与理解最终回到物理世界。" style="text;html=0;whiteSpace=nowrap;overflow=visible;verticalAlign=top;spacing=0;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;fillColor=none;strokeColor=none;align=left;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;fontColor=#334155;" vertex="1" parent="1">
+          <mxGeometry x="672" y="650" width="256" height="24.3" as="geometry" />
+        </mxCell>
+        <mxCell id="item-39-line-1" value="量化是模型探索的重要部分。" style="text;html=0;whiteSpace=nowrap;overflow=visible;verticalAlign=top;spacing=0;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;fillColor=none;strokeColor=none;align=left;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;fontColor=#334155;" vertex="1" parent="1">
+          <mxGeometry x="672" y="674.3" width="238" height="24.3" as="geometry" />
+        </mxCell>
+        <mxCell id="item-40" value="" style="edgeStyle=none;noEdgeStyle=1;orthogonalLoop=0;rounded=0;curved=0;html=0;startArrow=none;endArrow=none;strokeColor=#CBD5E1;strokeWidth=1;dashed=0;fixDash=1;dashPattern=8 6;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="56" y="756" as="sourcePoint" />
+            <mxPoint x="1144" y="756" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="item-41-line-0" value="个人经历与思想来源的概念图 · 箭头表示研究方向的汇合，不表示时间顺序。" style="text;html=0;whiteSpace=nowrap;overflow=visible;verticalAlign=top;spacing=0;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;fillColor=none;strokeColor=none;align=left;fontFamily=Microsoft YaHei;fontSize=14;fontStyle=0;fontColor=#5B6775;" vertex="1" parent="1">
+          <mxGeometry x="56" y="777" width="477.657188" height="18.9" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
