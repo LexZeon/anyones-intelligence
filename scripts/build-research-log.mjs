@@ -8,6 +8,22 @@ const startMarker = '<!-- RESEARCH_LOG:START -->';
 const endMarker = '<!-- RESEARCH_LOG:END -->';
 const types = { page: '页面改动', file: '文件更新', feature: '功能更新' };
 const changes = { added: '新增', modified: '更新', uploaded: '上传', deleted: '删除' };
+const locales = {
+  'zh-CN': {
+    types, changes, all: '全部', filter: '按更新类型筛选', empty: '尚无研究日志。', commit: '查看提交',
+    summary: (days, count) => `${days} 天 · ${count} 条更新`,
+    status: count => `共 ${count} 条更新`,
+    date: (year, month, day) => `${year}年${month}月${day}日`,
+  },
+  en: {
+    types: { page: 'Page updates', file: 'File updates', feature: 'Features' },
+    changes: { added: 'Added', modified: 'Updated', uploaded: 'Uploaded', deleted: 'Deleted' },
+    all: 'All', filter: 'Filter by update type', empty: 'No research updates yet.', commit: 'View commit',
+    summary: (days, count) => `${days} ${days === 1 ? 'day' : 'days'} · ${count} ${count === 1 ? 'update' : 'updates'}`,
+    status: count => `${count} ${count === 1 ? 'update' : 'updates'}`,
+    date: (year, month, day) => `${['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'][month - 1]} ${day}, ${year}`,
+  },
+};
 const commitPattern = /^[0-9a-f]{40}$/i;
 
 function fail(location, message) {
@@ -65,6 +81,10 @@ export function validateLog(log) {
     if (typeof entry.type !== 'string' || !Object.hasOwn(types, entry.type)) fail(`${location}.type`, '必须为 page、file 或 feature');
     nonempty(entry.title, `${location}.title`);
     nonempty(entry.summary, `${location}.summary`);
+    if (entry.title_en !== undefined || entry.summary_en !== undefined) {
+      nonempty(entry.title_en, `${location}.title_en`);
+      nonempty(entry.summary_en, `${location}.summary_en`);
+    }
     if (entry.commits !== undefined) {
       if (!Array.isArray(entry.commits)) fail(`${location}.commits`, '必须是数组');
       entry.commits.forEach((sha, i) => commit(sha, `${location}.commits[${i}]`));
@@ -99,8 +119,16 @@ function fileURL(file, entry) {
 }
 
 /** Produce a complete readable journal; client-side filtering is optional. */
-export function renderLog(source) {
+export function renderLog(source, locale = 'zh-CN') {
   const log = validateLog(source);
+  if (!Object.hasOwn(locales, locale)) throw new TypeError(`Unsupported locale: ${locale}`);
+  const copy = locales[locale];
+  if (locale === 'en') {
+    log.entries.forEach((entry, index) => {
+      nonempty(entry.title_en, `entries[${index}].title_en`);
+      nonempty(entry.summary_en, `entries[${index}].summary_en`);
+    });
+  }
   const entries = [...log.entries].sort((a, b) => b.date.localeCompare(a.date));
   const days = new Map();
   const counts = { all: entries.length, page: 0, file: 0, feature: 0 };
@@ -111,40 +139,40 @@ export function renderLog(source) {
   }
 
   const lines = [
-    `<div class="log-summary">${days.size} 天 · ${entries.length} 条更新</div>`,
-    '<div class="log-filters" hidden role="group" aria-label="按更新类型筛选">',
+    `<div class="log-summary">${copy.summary(days.size, entries.length)}</div>`,
+    `<div class="log-filters" hidden role="group" aria-label="${copy.filter}">`,
   ];
-  for (const [type, label] of Object.entries({ all: '全部', ...types })) {
+  for (const [type, label] of Object.entries({ all: copy.all, ...copy.types })) {
     lines.push(`  <button type="button" data-log-filter="${type}" aria-pressed="${type === 'all'}" aria-controls="log-days">${label}<span class="filter-count">${counts[type]}</span></button>`);
   }
-  lines.push('</div>', `<p class="log-filter-status" role="status" aria-live="polite">共 ${entries.length} 条更新</p>`, '<div id="log-days">');
-  if (!entries.length) lines.push('  <p class="log-empty">尚无研究日志。</p>');
+  lines.push('</div>', `<p class="log-filter-status" role="status" aria-live="polite">${copy.status(entries.length)}</p>`, '<div id="log-days">');
+  if (!entries.length) lines.push(`  <p class="log-empty">${copy.empty}</p>`);
   for (const [date, dayEntries] of days) {
     const [year, month, day] = date.split('-').map(Number);
     lines.push(
       '  <section class="log-day" data-log-day>',
-      `    <h3><time datetime="${date}">${year}年${month}月${day}日</time></h3>`,
+      `    <h3><time datetime="${date}">${copy.date(year, month, day)}</time></h3>`,
       '    <ol class="log-entries">',
     );
     for (const entry of dayEntries) {
       lines.push(
-        `      <li class="log-entry" data-log-type="${entry.type}">`,
+        `      <li class="log-entry" data-log-type="${entry.type}" data-log-id="${escapeHTML(entry.id)}">`,
         '        <article>',
-        `          <span class="log-kind">${types[entry.type]}</span>`,
-        `          <h4>${escapeHTML(entry.title)}</h4>`,
-        `          <p class="log-description">${escapeHTML(entry.summary)}</p>`,
+        `          <span class="log-kind">${copy.types[entry.type]}</span>`,
+        `          <h4>${escapeHTML(locale === 'en' ? entry.title_en : entry.title)}</h4>`,
+        `          <p class="log-description">${escapeHTML(locale === 'en' ? entry.summary_en : entry.summary)}</p>`,
       );
       if (entry.files?.length) {
         lines.push('          <ul class="log-files">');
         for (const file of entry.files) {
-          lines.push(`            <li><span class="file-change">${changes[file.change]}</span><a href="${escapeHTML(fileURL(file, entry))}">${escapeHTML(file.path)}</a></li>`);
+          lines.push(`            <li><span class="file-change">${copy.changes[file.change]}</span><a href="${escapeHTML(fileURL(file, entry))}">${escapeHTML(file.path)}</a></li>`);
         }
         lines.push('          </ul>');
       }
       if (entry.commits?.length) {
         lines.push('          <div class="log-commits">');
         for (const sha of entry.commits) {
-          lines.push(`            <a href="${repository}/commit/${sha}">查看提交 ${sha.slice(0, 7)}</a>`);
+          lines.push(`            <a href="${repository}/commit/${sha}">${copy.commit} ${sha.slice(0, 7)}</a>`);
         }
         lines.push('          </div>');
       }
@@ -163,7 +191,7 @@ export function updateLogSection(html, renderedLog) {
   if (start < 0 || end < start + startMarker.length
       || html.indexOf(startMarker, start + startMarker.length) !== -1
       || html.indexOf(endMarker, end + endMarker.length) !== -1) {
-    throw new Error('site/index.html 必须包含唯一、顺序正确的 RESEARCH_LOG 标记对');
+    throw new Error('页面必须包含唯一、顺序正确的 RESEARCH_LOG 标记对');
   }
   const lineStart = html.lastIndexOf('\n', start) + 1;
   const prefix = html.slice(lineStart, start);
@@ -179,21 +207,24 @@ async function main() {
     throw new Error('用法: node scripts/build-research-log.mjs [--check]');
   }
   const root = resolve(dirname(fileURLToPath(import.meta.url)), '..');
-  const [source, html] = await Promise.all([
-    readFile(resolve(root, 'data/research-log.json'), 'utf8'),
-    readFile(resolve(root, 'site/index.html'), 'utf8'),
-  ]);
-  const updated = updateLogSection(html, renderLog(JSON.parse(source)));
+  const source = JSON.parse(await readFile(resolve(root, 'data/research-log.json'), 'utf8'));
+  const pages = await Promise.all([
+    ['site/index.html', 'en'], ['site/zh.html', 'zh-CN'],
+  ].map(async ([path, locale]) => {
+    const html = await readFile(resolve(root, path), 'utf8');
+    return { path, html, updated: updateLogSection(html, renderLog(source, locale)) };
+  }));
+  const stale = pages.filter(page => page.updated !== page.html);
   if (args.includes('--check')) {
-    if (updated !== html) {
-      console.error('研究日志尚未同步。请运行 node scripts/build-research-log.mjs');
+    if (stale.length) {
+      console.error(`研究日志尚未同步：${stale.map(page => page.path).join(', ')}。请运行 node scripts/build-research-log.mjs`);
       process.exitCode = 1;
     } else {
       console.log('研究日志已同步。');
     }
-  } else if (updated !== html) {
-    await writeFile(resolve(root, 'site/index.html'), updated, 'utf8');
-    console.log('已更新首页研究日志。');
+  } else if (stale.length) {
+    await Promise.all(stale.map(page => writeFile(resolve(root, page.path), page.updated, 'utf8')));
+    console.log('已更新中英文首页研究日志。');
   } else {
     console.log('首页研究日志无需更新。');
   }

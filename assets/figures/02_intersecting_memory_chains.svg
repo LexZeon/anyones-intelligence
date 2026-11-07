@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="875" viewBox="0 0 1200 875">
+  <title>Intersecting memory chains</title>
+  <rect width="100%" height="100%" fill="#ffffff" />
+  <text x="44" y="25" font-family="DejaVu Sans" font-size="12" font-weight="bold" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">ANYONE'S INTELLIGENCE   /   FIGURE 06</text>
+  <text x="44" y="55" font-family="Microsoft YaHei" font-size="28" font-weight="bold" fill="#17212B" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">记忆链通过共享的词与关系相连</text>
+  <text x="44" y="98" font-family="Microsoft YaHei" font-size="17" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">两种来源分别保留；实心节点标出真正共享的连接。</text>
+  <polyline points="44,133 1156,133" fill="none" stroke="#CBD5E1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+  <text x="195" y="155" font-family="Microsoft YaHei" font-size="16" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">y · 抽象 / cofoundational 程度</text>
+  <rect x="195" y="190" width="955" height="130" rx="0" fill="#F1F5F9" stroke="none" stroke-width="1" />
+  <polyline points="195,190 1150,190" fill="none" stroke="#CBD5E1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+  <text x="45" y="237" font-family="Microsoft YaHei" font-size="21" font-weight="bold" fill="#17212B" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">象征界</text>
+  <text x="45" y="267" font-family="DejaVu Sans" font-size="12" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">Symbolic</text>
+  <rect x="195" y="320" width="955" height="130" rx="0" fill="#F7F9FB" stroke="none" stroke-width="1" />
+  <polyline points="195,320 1150,320" fill="none" stroke="#CBD5E1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+  <text x="45" y="367" font-family="Microsoft YaHei" font-size="21" font-weight="bold" fill="#17212B" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">想象界</text>
+  <text x="45" y="397" font-family="DejaVu Sans" font-size="12" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">Imaginary</text>
+  <rect x="195" y="450" width="955" height="130" rx="0" fill="#FCFDFE" stroke="none" stroke-width="1" />
+  <polyline points="195,450 1150,450" fill="none" stroke="#CBD5E1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+  <text x="45" y="497" font-family="Microsoft YaHei" font-size="21" font-weight="bold" fill="#17212B" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">实在界</text>
+  <text x="45" y="527" font-family="DejaVu Sans" font-size="12" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">Real</text>
+  <polyline points="195,580 1150,580" fill="none" stroke="#CBD5E1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+  <polyline points="179,580 179,197.5" fill="none" stroke="#5B6775" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" />
+  <polygon points="179,190 183.2,200 174.8,200" fill="#5B6775" stroke="none" />
+  <rect x="195" y="604" width="955" height="45" rx="3" fill="#E8EDF2" stroke="#BBC6D1" stroke-width="1" />
+  <text x="672.5" y="615" font-family="Microsoft YaHei" font-size="17" font-weight="normal" fill="#334155" text-anchor="middle" dominant-baseline="text-before-edge" xml:space="preserve">Foundation · 先天的进食与趋利避害机制</text>
+  <polyline points="195,671 1142.5,671" fill="none" stroke="#5B6775" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" />
+  <polygon points="1150,671 1140,675.2 1140,666.8" fill="#5B6775" stroke="none" />
+  <text x="1150" y="684" font-family="Microsoft YaHei" font-size="15" font-weight="normal" fill="#5B6775" text-anchor="end" dominant-baseline="text-before-edge" xml:space="preserve">x · 链的展开（无固定单位）</text>
+  <polyline points="495,518 498.78678,508.580573 502.757202,497.793964 506.909722,485.831019 511.242798,472.882579 515.754887,459.139489 520.444444,444.792593 525.309928,430.032733 530.349794,415.050754 535.5625,400.0375 540.946502,385.183813 546.500257,370.680538 552.222222,356.718519 558.110854,343.488597 564.164609,331.181619 570.381944,319.988426 576.761317,310.099863 583.301183,301.706773 590,295 597.48954,289.565261 606.29904,284.82332 616.273148,280.717593 627.256516,277.191495 639.093793,274.188443 651.62963,271.651852 664.708676,269.525137 678.175583,267.751715 691.875,266.275 705.651578,265.038409 719.349966,263.985357 732.814815,263.059259 745.890775,262.203532 758.422497,261.361591 770.25463,260.476852 781.231824,259.49273 791.198731,258.352641 800,257" fill="none" stroke="#0072B2" stroke-width="3.3" stroke-linecap="round" stroke-linejoin="round" />
+  <polyline points="520.444444,444.792593 525.309928,430.032733 527.824594,422.557402" fill="none" stroke="#0072B2" stroke-width="3.3" stroke-linecap="round" stroke-linejoin="round" />
+  <polygon points="530.349794,415.050754 531.186583,426.473731 522.779137,423.645506" fill="#0072B2" stroke="none" />
+  <polyline points="651.62963,271.651852 664.708676,269.525137 670.323375,268.785752" fill="none" stroke="#0072B2" stroke-width="3.3" stroke-linecap="round" stroke-linejoin="round" />
+  <polygon points="678.175583,267.751715 668.285033,273.527667 667.126912,264.733195" fill="#0072B2" stroke="none" />
+  <polyline points="250,518 257.643519,505.26665 265.777778,490.517147 274.375,474.043981 283.407407,456.139643 292.847222,437.096622 302.666667,417.207407 312.837963,396.764489 323.333333,376.060357 334.125,355.3875 345.185185,335.038409 356.486111,315.305573 368,296.481481 379.699074,278.858625 391.555556,262.729492 403.541667,248.386574 415.62963,236.122359 427.791667,226.229338 440,219 453.377229,214.087826 468.894376,210.845816 486.296296,209.115741 505.327846,208.739369 525.733882,209.558471 547.259259,211.414815 569.648834,214.150171 592.647462,217.60631 616,221.625 639.451303,226.048011 662.746228,230.717112 685.62963,235.474074 707.846365,240.160665 729.141289,244.618656 749.259259,248.689815 767.94513,252.215912 784.943759,255.038717 800,257" fill="none" stroke="#D55E00" stroke-width="3.3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8 6" />
+  <polyline points="323.333333,376.060357 334.125,355.3875 341.403043,341.996986" fill="none" stroke="#D55E00" stroke-width="3.3" stroke-linecap="round" stroke-linejoin="round" />
+  <polygon points="345.185185,335.038409 344.039132,346.434512 336.245526,342.198512" fill="#D55E00" stroke="none" />
+  <polyline points="592.647462,217.60631 616,221.625 631.668516,224.580146" fill="none" stroke="#D55E00" stroke-width="3.3" stroke-linecap="round" stroke-linejoin="round" />
+  <polygon points="639.451303,226.048011 628.252249,228.449218 629.896258,219.732497" fill="#D55E00" stroke="none" />
+  <polyline points="800,257 802.389129,259.362311 805.026612,261.925652 807.884259,264.671296 810.933882,267.580521 814.147291,270.634602 817.496296,273.814815 820.952709,277.102435 824.48834,280.478738 828.075,283.925 831.684499,287.422497 835.288649,290.952503 838.859259,294.496296 842.368141,298.035151 845.787106,301.550343 849.087963,305.023148 852.242524,308.434842 855.222599,311.766701 858,315 860.804904,318.418947 863.863923,322.283676 867.143519,326.539352 870.610151,331.131139 874.230281,336.004201 877.97037,341.103704 881.796879,346.374811 885.676269,351.762689 889.575,357.2125 893.459534,362.66941 897.296331,368.078584 901.051852,373.385185 904.692558,378.534379 908.184911,383.471331 911.49537,388.141204 914.590398,392.489163 917.436454,396.460374 920,400" fill="none" stroke="#0072B2" stroke-width="3.3" stroke-linecap="round" stroke-linejoin="round" />
+  <polyline points="860.804904,318.418947 863.863923,322.283676 865.175761,323.985947" fill="none" stroke="#0072B2" stroke-width="3.3" stroke-linecap="round" stroke-linejoin="round" />
+  <polygon points="867.143519,326.539352 863.089935,324.236755 865.949749,322.032867" fill="#0072B2" stroke="none" />
+  <polyline points="800,257 801.008488,263.427298 802.08642,270.798628 803.229167,278.981481 804.432099,287.843347 805.690586,297.251715 807,307.074074 808.35571,317.177915 809.753086,327.430727 811.1875,337.7 812.654321,347.853224 814.14892,357.757888 815.666667,367.281481 817.202932,376.291495 818.753086,384.655418 820.3125,392.240741 821.876543,398.914952 823.440586,404.545542 825,409 826.677984,412.598148 828.584362,415.765432 830.694444,418.527778 832.983539,420.911111 835.426955,422.941358 838,424.644444 840.677984,426.046296 843.436214,427.17284 846.25,428.05 849.09465,428.703704 851.945473,429.159877 854.777778,429.444444 857.566872,429.583333 860.288066,429.602469 862.916667,429.527778 865.427984,429.385185 867.797325,429.200617 870,429 872.226852,428.622205 874.666667,427.912209 877.291667,426.905093 880.074074,425.63594 882.986111,424.139832 886,422.451852 889.087963,420.607082 892.222222,418.640604 895.375,416.5875 898.518519,414.482853 901.625,412.361746 904.666667,410.259259 907.615741,408.210477 910.444444,406.25048 913.125,404.414352 915.62963,402.737174 917.930556,401.254029 920,400" fill="none" stroke="#D55E00" stroke-width="3.3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8 6" />
+  <polyline points="851.945473,429.159877 854.777778,429.444444 855.893416,429.5" fill="none" stroke="#D55E00" stroke-width="3.3" stroke-linecap="round" stroke-linejoin="round" />
+  <polygon points="857.566872,429.583333 855.28893,430.409358 855.382263,428.535086" fill="#D55E00" stroke="none" />
+  <polyline points="920,400 923.714506,400.737997 927.82716,401.410151 932.291667,402.037037 937.061728,402.639232 942.091049,403.237311 947.333333,403.851852 952.742284,404.503429 958.271605,405.21262 963.875,406 969.506173,406.886145 975.118827,407.891632 980.666667,409.037037 986.103395,410.342936 991.382716,411.829904 996.458333,413.518519 1001.283951,415.429355 1005.813272,417.58299 1010,420 1014.186728,422.932699 1018.716049,426.566529 1023.541667,430.821759 1028.617284,435.618656 1033.896605,440.877486 1039.333333,446.518519 1044.881173,452.46202 1050.493827,458.628258 1056.125,464.9375 1061.728395,471.310014 1067.257716,477.666067 1072.666667,483.925926 1077.908951,490.009859 1082.938272,495.838134 1087.708333,501.331019 1092.17284,506.408779 1096.285494,510.991684 1100,515" fill="none" stroke="#334155" stroke-width="3.3" stroke-linecap="round" stroke-linejoin="round" />
+  <polyline points="1023.541667,430.821759 1028.617284,435.618656 1030.729012,437.722188" fill="none" stroke="#334155" stroke-width="3.3" stroke-linecap="round" stroke-linejoin="round" />
+  <polygon points="1033.896605,440.877486 1027.906181,438.444274 1031.440115,434.89657" fill="#334155" stroke="none" />
+  <circle cx="495" cy="518" r="5.5" fill="#FFFFFF" stroke="#0072B2" stroke-width="2.5" />
+  <circle cx="250" cy="518" r="5.5" fill="#FFFFFF" stroke="#D55E00" stroke-width="2.5" />
+  <circle cx="590" cy="295" r="5.5" fill="#FFFFFF" stroke="#0072B2" stroke-width="2.5" />
+  <circle cx="440" cy="219" r="5.5" fill="#FFFFFF" stroke="#D55E00" stroke-width="2.5" />
+  <circle cx="1100" cy="515" r="5.5" fill="#FFFFFF" stroke="#334155" stroke-width="2.5" />
+  <circle cx="800" cy="257" r="7" fill="#334155" stroke="#334155" stroke-width="1" />
+  <circle cx="920" cy="400" r="7" fill="#334155" stroke="#334155" stroke-width="1" />
+  <text x="495" y="539" font-family="Microsoft YaHei" font-size="17" font-weight="normal" fill="#0072B2" text-anchor="middle" dominant-baseline="text-before-edge" xml:space="preserve">甜食相关的</text>
+  <text x="495" y="561.95" font-family="Microsoft YaHei" font-size="17" font-weight="normal" fill="#0072B2" text-anchor="middle" dominant-baseline="text-before-edge" xml:space="preserve">生理体验</text>
+  <text x="265" y="539" font-family="Microsoft YaHei" font-size="17" font-weight="normal" fill="#D55E00" text-anchor="middle" dominant-baseline="text-before-edge" xml:space="preserve">被嘲笑时的</text>
+  <text x="265" y="561.95" font-family="Microsoft YaHei" font-size="17" font-weight="normal" fill="#D55E00" text-anchor="middle" dominant-baseline="text-before-edge" xml:space="preserve">生理反应</text>
+  <text x="612" y="291" font-family="Microsoft YaHei" font-size="19" font-weight="normal" fill="#0072B2" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">糖</text>
+  <rect x="382.5" y="169" width="115" height="39.65" rx="4" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.8" />
+  <text x="440" y="176" font-family="Microsoft YaHei" font-size="19" font-weight="normal" fill="#17212B" text-anchor="middle" dominant-baseline="text-before-edge" xml:space="preserve">嘲笑</text>
+  <rect x="703" y="196" width="266" height="36.95" rx="4" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.8" />
+  <text x="836" y="203" font-family="Microsoft YaHei" font-size="17" font-weight="normal" fill="#17212B" text-anchor="middle" dominant-baseline="text-before-edge" xml:space="preserve">共享词／词元：「胖」</text>
+  <rect x="909" y="318" width="232" height="59.9" rx="4" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.8" />
+  <text x="1025" y="325" font-family="Microsoft YaHei" font-size="17" font-weight="normal" fill="#17212B" text-anchor="middle" dominant-baseline="text-before-edge" xml:space="preserve">我再吃，就会</text>
+  <text x="1025" y="347.95" font-family="Microsoft YaHei" font-size="17" font-weight="normal" fill="#17212B" text-anchor="middle" dominant-baseline="text-before-edge" xml:space="preserve">再被嘲笑</text>
+  <rect x="900" y="533" width="236" height="36.95" rx="4" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.8" />
+  <text x="1018" y="540" font-family="Microsoft YaHei" font-size="17" font-weight="normal" fill="#17212B" text-anchor="middle" dominant-baseline="text-before-edge" xml:space="preserve">当下生理反应与行为</text>
+  <polyline points="195,749 237,749" fill="none" stroke="#0072B2" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+  <text x="250" y="738" font-family="Microsoft YaHei" font-size="16" font-weight="normal" fill="#17212B" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">甜食 / 进食相关链</text>
+  <polyline points="520,749 562,749" fill="none" stroke="#D55E00" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8 6" />
+  <text x="575" y="738" font-family="Microsoft YaHei" font-size="16" font-weight="normal" fill="#17212B" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">嘲笑 / 回避相关链</text>
+  <circle cx="936" cy="749" r="5" fill="#334155" stroke="#334155" stroke-width="1" />
+  <text x="953" y="738" font-family="Microsoft YaHei" font-size="16" font-weight="normal" fill="#17212B" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">共享连接</text>
+  <polyline points="44,801 1156,801" fill="none" stroke="#CBD5E1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+  <text x="44" y="815" font-family="Microsoft YaHei" font-size="15" font-weight="normal" fill="#17212B" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">颜色与线型只区分链的来源；共享末段不表示新增的认知模块。</text>
+  <text x="44" y="842" font-family="Microsoft YaHei" font-size="14" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">概念示意 · 三界采用作者定义 · 坐标、曲线与线宽不表示测量值</text>
+</svg>

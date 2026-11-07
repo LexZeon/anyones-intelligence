@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="790" viewBox="0 0 1200 790">
+  <title>从认知链到模型探索</title>
+  <rect width="100%" height="100%" fill="#ffffff" />
+  <rect x="0" y="0" width="1200" height="790" rx="0" fill="#FFFFFF" stroke="none" stroke-width="1" />
+  <text x="56" y="30" font-family="DejaVu Sans" font-size="14" font-weight="bold" fill="#0072B2" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">FIGURE 02</text>
+  <text x="1144" y="30" font-family="DejaVu Sans" font-size="14" font-weight="normal" fill="#5B6775" text-anchor="end" dominant-baseline="text-before-edge" xml:space="preserve">ANYONE'S INTELLIGENCE</text>
+  <text x="56" y="62" font-family="Microsoft YaHei" font-size="28" font-weight="bold" fill="#17212B" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">从认知链到模型探索</text>
+  <text x="56" y="106" font-family="Microsoft YaHei" font-size="18" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">以作者提出的关系结构为参考，通过量化与原型探索模拟认知。</text>
+  <polyline points="56,148 1144,148" fill="none" stroke="#CBD5E1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+  <polyline points="384,286 424.5,286" fill="none" stroke="#0072B2" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+  <polygon points="432,286 422,290.2 422,281.8" fill="#0072B2" stroke="none" />
+  <polyline points="768,286 808.5,286" fill="none" stroke="#0072B2" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+  <polygon points="816,286 806,290.2 806,281.8" fill="#0072B2" stroke="none" />
+  <rect x="56" y="184" width="320" height="202" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1" />
+  <text x="78" y="204" font-family="Microsoft YaHei" font-size="14" font-weight="bold" fill="#0072B2" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">理论参考</text>
+  <text x="78" y="234" font-family="Microsoft YaHei" font-size="23" font-weight="bold" fill="#17212B" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">作者提出的</text>
+  <text x="78" y="265.05" font-family="Microsoft YaHei" font-size="23" font-weight="bold" fill="#17212B" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">认知链</text>
+  <text x="78" y="305" font-family="Microsoft YaHei" font-size="18" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">经历、记忆、语言与状态</text>
+  <text x="78" y="329.3" font-family="Microsoft YaHei" font-size="18" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">共同参与理解与反应</text>
+  <rect x="440" y="184" width="320" height="202" rx="10" fill="#F2F8FC" stroke="#CBD5E1" stroke-width="1" />
+  <text x="462" y="204" font-family="Microsoft YaHei" font-size="14" font-weight="bold" fill="#0072B2" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">研究过程</text>
+  <text x="462" y="234" font-family="Microsoft YaHei" font-size="23" font-weight="bold" fill="#17212B" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">量化与</text>
+  <text x="462" y="265.05" font-family="Microsoft YaHei" font-size="23" font-weight="bold" fill="#17212B" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">语言模型原型</text>
+  <text x="462" y="305" font-family="Microsoft YaHei" font-size="18" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">状态变化与联系形成</text>
+  <text x="462" y="329.3" font-family="Microsoft YaHei" font-size="18" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">权重差异及其共同作用</text>
+  <rect x="824" y="184" width="320" height="202" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1" />
+  <text x="846" y="204" font-family="Microsoft YaHei" font-size="14" font-weight="bold" fill="#0072B2" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">实现目标</text>
+  <text x="846" y="234" font-family="Microsoft YaHei" font-size="23" font-weight="bold" fill="#17212B" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">在模型中</text>
+  <text x="846" y="265.05" font-family="Microsoft YaHei" font-size="23" font-weight="bold" fill="#17212B" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">模拟认知</text>
+  <text x="846" y="305" font-family="Microsoft YaHei" font-size="18" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">探索感受、语言与记忆</text>
+  <text x="846" y="329.3" font-family="Microsoft YaHei" font-size="18" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">怎样共同参与认知过程</text>
+  <polyline points="56,437 1144,437" fill="none" stroke="#CBD5E1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+  <text x="56" y="459" font-family="Microsoft YaHei" font-size="23" font-weight="bold" fill="#17212B" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">长期愿景</text>
+  <text x="1144" y="465" font-family="Microsoft YaHei" font-size="14" font-weight="bold" fill="#D55E00" text-anchor="end" dominant-baseline="text-before-edge" xml:space="preserve">研究目标 · 尚非成果</text>
+  <rect x="56" y="516" width="344" height="190" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1" />
+  <rect x="78" y="535" width="34" height="4" rx="0" fill="#D55E00" stroke="none" stroke-width="1" />
+  <text x="78" y="553" font-family="Microsoft YaHei" font-size="21" font-weight="bold" fill="#17212B" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">可靠理解与可解释性</text>
+  <text x="78" y="621" font-family="Microsoft YaHei" font-size="18" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">减少并尝试消除幻觉</text>
+  <text x="78" y="645.3" font-family="Microsoft YaHei" font-size="18" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">逐步消除黑箱</text>
+  <text x="78" y="669.6" font-family="Microsoft YaHei" font-size="18" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">提高使用安全性</text>
+  <rect x="428" y="516" width="344" height="190" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1" />
+  <rect x="450" y="535" width="34" height="4" rx="0" fill="#D55E00" stroke="none" stroke-width="1" />
+  <text x="450" y="553" font-family="Microsoft YaHei" font-size="21" font-weight="bold" fill="#17212B" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">对人文领域的深入理解</text>
+  <text x="450" y="621" font-family="Microsoft YaHei" font-size="18" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">艺术</text>
+  <text x="450" y="645.3" font-family="Microsoft YaHei" font-size="18" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">文化</text>
+  <text x="450" y="669.6" font-family="Microsoft YaHei" font-size="18" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">政治</text>
+  <rect x="800" y="516" width="344" height="190" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1" />
+  <rect x="822" y="535" width="34" height="4" rx="0" fill="#D55E00" stroke="none" stroke-width="1" />
+  <text x="822" y="553" font-family="Microsoft YaHei" font-size="21" font-weight="bold" fill="#17212B" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">自主思考与意识探索</text>
+  <text x="822" y="621" font-family="Microsoft YaHei" font-size="18" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">自主思考与创新解题</text>
+  <text x="822" y="645.3" font-family="Microsoft YaHei" font-size="18" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">探索模型产生“意识”的可能</text>
+  <polyline points="56,726 1144,726" fill="none" stroke="#CBD5E1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+  <text x="56" y="747" font-family="Microsoft YaHei" font-size="14" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">研究方向示意 · 模型架构保持开放 · 长期愿景需要后续研究与验证。</text>
+</svg>

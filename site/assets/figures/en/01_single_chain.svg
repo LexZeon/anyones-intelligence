@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="805" viewBox="0 0 1200 805">
+  <title>Single cognitive chain</title>
+  <rect width="100%" height="100%" fill="#ffffff" />
+  <text x="44" y="25" font-family="DejaVu Sans" font-size="12" font-weight="bold" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">ANYONE'S INTELLIGENCE   /   FIGURE 05</text>
+  <text x="44" y="55" font-family="DejaVu Sans" font-size="28" font-weight="bold" fill="#17212B" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">A cognitive chain: state, relations, and response</text>
+  <text x="44" y="98" font-family="DejaVu Sans" font-size="17" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">One chain spans three levels; returning to a lower level preserves the influence of experience.</text>
+  <polyline points="44,133 1156,133" fill="none" stroke="#CBD5E1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+  <text x="195" y="155" font-family="DejaVu Sans" font-size="16" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">y · Abstraction / cofoundational degree</text>
+  <rect x="195" y="190" width="955" height="115" rx="0" fill="#F1F5F9" stroke="none" stroke-width="1" />
+  <polyline points="195,190 1150,190" fill="none" stroke="#CBD5E1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+  <text x="45" y="229.5" font-family="DejaVu Sans" font-size="21" font-weight="bold" fill="#17212B" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">Symbolic</text>
+  <rect x="195" y="305" width="955" height="115" rx="0" fill="#F7F9FB" stroke="none" stroke-width="1" />
+  <polyline points="195,305 1150,305" fill="none" stroke="#CBD5E1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+  <text x="45" y="344.5" font-family="DejaVu Sans" font-size="21" font-weight="bold" fill="#17212B" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">Imaginary</text>
+  <rect x="195" y="420" width="955" height="115" rx="0" fill="#FCFDFE" stroke="none" stroke-width="1" />
+  <polyline points="195,420 1150,420" fill="none" stroke="#CBD5E1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+  <text x="45" y="459.5" font-family="DejaVu Sans" font-size="21" font-weight="bold" fill="#17212B" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">Real</text>
+  <polyline points="195,535 1150,535" fill="none" stroke="#CBD5E1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+  <polyline points="179,535 179,197.5" fill="none" stroke="#5B6775" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" />
+  <polygon points="179,190 183.2,200 174.8,200" fill="#5B6775" stroke="none" />
+  <rect x="195" y="559" width="955" height="45" rx="3" fill="#E8EDF2" stroke="#BBC6D1" stroke-width="1" />
+  <text x="672.5" y="570" font-family="DejaVu Sans" font-size="17" font-weight="normal" fill="#334155" text-anchor="middle" dominant-baseline="text-before-edge" xml:space="preserve">Foundation · Innate feeding and approach–avoidance mechanisms</text>
+  <polyline points="195,626 1142.5,626" fill="none" stroke="#5B6775" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" />
+  <polygon points="1150,626 1140,630.2 1140,621.8" fill="#5B6775" stroke="none" />
+  <text x="1150" y="639" font-family="DejaVu Sans" font-size="15" font-weight="normal" fill="#5B6775" text-anchor="end" dominant-baseline="text-before-edge" xml:space="preserve">x · Unfolding of the chain (no fixed unit)</text>
+  <polyline points="245,470 252.859225,461.358453 261.589849,451.491084 271.087963,440.56713 281.249657,428.75583 291.971022,416.226423 303.148148,403.148148 314.677126,389.690243 326.454047,376.021948 338.375,362.3125 350.336077,348.731139 362.233368,335.447102 373.962963,322.62963 385.420953,310.44796 396.503429,299.071331 407.106481,288.668981 417.1262,279.410151 426.458676,271.464078 435,265 443.393004,259.500823 452.304527,254.334979 461.666667,249.5 471.411523,244.993416 481.471193,240.812757 491.777778,236.955556 502.263374,233.419342 512.860082,230.201646 523.5,227.3 534.115226,224.711934 544.63786,222.434979 555,220.466667 565.133745,218.804527 574.971193,217.446091 584.444444,216.388889 593.485597,215.630453 602.026749,215.168313 610,215 617.960151,215.236351 626.461454,215.964883 635.435185,217.148148 644.81262,218.748697 654.525034,220.729081 664.503704,223.051852 674.679904,225.679561 684.984911,228.57476 695.35,231.7 705.706447,235.017833 715.985528,238.490809 726.118519,242.081481 736.036694,245.752401 745.671331,249.466118 754.953704,253.185185 763.815089,256.872154 772.186763,260.489575 780,264 787.830384,267.777298 796.248011,272.173937 805.175926,277.12037 814.537174,282.547051 824.254801,288.384431 834.251852,294.562963 844.451372,301.0131 854.776406,307.665295 865.15,314.45 875.495199,321.297668 885.735048,328.138752 895.792593,334.903704 905.590878,341.522977 915.052949,347.927023 924.101852,354.046296 932.660631,359.811248 940.652332,365.152332 948,370 955.254578,374.77085 962.973663,379.895199 971.090278,385.324074 979.537449,391.008505 988.2482,396.89952 997.155556,402.948148 1006.192541,409.105418 1015.292181,415.322359 1024.3875,421.55 1033.411523,427.739369 1042.297274,433.841495 1050.977778,439.807407 1059.38606,445.588134 1067.455144,451.134705 1075.118056,456.398148 1082.307819,461.329492 1088.957459,465.879767 1095,470" fill="none" stroke="#0072B2" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round" />
+  <polyline points="338.375,362.3125 350.336077,348.731139 356.789381,341.525639" fill="none" stroke="#0072B2" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round" />
+  <polygon points="362.233368,335.447102 358.378699,346.60045 351.570738,340.503185" fill="#0072B2" stroke="none" />
+  <polyline points="555,220.466667 565.133745,218.804527 569.068724,218.261152" fill="none" stroke="#0072B2" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round" />
+  <polygon points="574.971193,217.446091 567.557669,221.838222 566.6448,215.227457" fill="#0072B2" stroke="none" />
+  <polyline points="805.175926,277.12037 814.537174,282.547051 818.424225,284.882003" fill="none" stroke="#0072B2" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round" />
+  <polygon points="824.254801,288.384431 814.51934,286.979649 818.442059,280.449404" fill="#0072B2" stroke="none" />
+  <polyline points="1006.192541,409.105418 1015.292181,415.322359 1018.930309,417.813416" fill="none" stroke="#0072B2" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round" />
+  <polygon points="1024.3875,421.55 1015.018758,419.623915 1019.203732,413.51186" fill="#0072B2" stroke="none" />
+  <circle cx="245" cy="470" r="5.5" fill="#FFFFFF" stroke="#0072B2" stroke-width="2.5" />
+  <circle cx="435" cy="265" r="5.5" fill="#FFFFFF" stroke="#0072B2" stroke-width="2.5" />
+  <circle cx="610" cy="215" r="5.5" fill="#FFFFFF" stroke="#0072B2" stroke-width="2.5" />
+  <circle cx="780" cy="264" r="5.5" fill="#FFFFFF" stroke="#0072B2" stroke-width="2.5" />
+  <circle cx="948" cy="370" r="5.5" fill="#FFFFFF" stroke="#0072B2" stroke-width="2.5" />
+  <circle cx="1095" cy="470" r="5.5" fill="#FFFFFF" stroke="#0072B2" stroke-width="2.5" />
+  <text x="285" y="485" font-family="DejaVu Sans" font-size="16" font-weight="normal" fill="#17212B" text-anchor="middle" dominant-baseline="text-before-edge" xml:space="preserve">Hunger</text>
+  <text x="285" y="506.6" font-family="DejaVu Sans" font-size="16" font-weight="normal" fill="#17212B" text-anchor="middle" dominant-baseline="text-before-edge" xml:space="preserve">Feeding drive</text>
+  <rect x="387.5" y="200" width="95" height="39.65" rx="4" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.8" />
+  <text x="435" y="207" font-family="DejaVu Sans" font-size="19" font-weight="normal" fill="#17212B" text-anchor="middle" dominant-baseline="text-before-edge" xml:space="preserve">Sugar</text>
+  <rect x="562.5" y="237" width="95" height="39.65" rx="4" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.8" />
+  <text x="610" y="244" font-family="DejaVu Sans" font-size="19" font-weight="normal" fill="#17212B" text-anchor="middle" dominant-baseline="text-before-edge" xml:space="preserve">“Fat”</text>
+  <rect x="722.5" y="196" width="115" height="39.65" rx="4" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.8" />
+  <text x="780" y="203" font-family="DejaVu Sans" font-size="19" font-weight="normal" fill="#17212B" text-anchor="middle" dominant-baseline="text-before-edge" xml:space="preserve">Mockery</text>
+  <polyline points="948,370 984,350" fill="none" stroke="#CBD5E1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+  <rect x="984" y="299" width="166" height="78.8" rx="4" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.8" />
+  <text x="1067" y="306" font-family="DejaVu Sans" font-size="16" font-weight="normal" fill="#17212B" text-anchor="middle" dominant-baseline="text-before-edge" xml:space="preserve">If I eat sweets</text>
+  <text x="1067" y="327.6" font-family="DejaVu Sans" font-size="16" font-weight="normal" fill="#17212B" text-anchor="middle" dominant-baseline="text-before-edge" xml:space="preserve">again, I will be</text>
+  <text x="1067" y="349.2" font-family="DejaVu Sans" font-size="16" font-weight="normal" fill="#17212B" text-anchor="middle" dominant-baseline="text-before-edge" xml:space="preserve">mocked again.</text>
+  <text x="1045" y="485" font-family="DejaVu Sans" font-size="16" font-weight="normal" fill="#17212B" text-anchor="middle" dominant-baseline="text-before-edge" xml:space="preserve">Fear-related physiology</text>
+  <text x="1045" y="506.6" font-family="DejaVu Sans" font-size="16" font-weight="normal" fill="#17212B" text-anchor="middle" dominant-baseline="text-before-edge" xml:space="preserve">Avoiding sweets</text>
+  <polyline points="195,700 231.84,700" fill="none" stroke="#0072B2" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round" />
+  <polygon points="240,700 229.12,704.5696 229.12,695.4304" fill="#0072B2" stroke="none" />
+  <text x="252" y="689" font-family="DejaVu Sans" font-size="16" font-weight="normal" fill="#17212B" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">Direction of unfolding</text>
+  <circle cx="575" cy="700" r="5.5" fill="#FFFFFF" stroke="#0072B2" stroke-width="2" />
+  <text x="591" y="689" font-family="DejaVu Sans" font-size="16" font-weight="normal" fill="#17212B" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">State, word / token, or imagined content</text>
+  <polyline points="44,734 1156,734" fill="none" stroke="#CBD5E1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+  <text x="44" y="748" font-family="DejaVu Sans" font-size="15" font-weight="normal" fill="#17212B" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">The outcome belongs to this example; foundation remains distinct from current physiology.</text>
+  <text x="44" y="775" font-family="DejaVu Sans" font-size="14" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">Conceptual diagram · Author-defined registers · Geometry and widths are not measurements</text>
+</svg>

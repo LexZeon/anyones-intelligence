@@ -3,11 +3,28 @@
   "timezone": "America/Los_Angeles",
   "entries": [
     {
+      "id": "2026-11-07-research-foundations-v100",
+      "date": "2026-11-07",
+      "type": "page",
+      "title": "发布理论基础与认知模型假说 v1.0.0",
+      "summary": "加入完整的中英文研究文档与图示，说明项目的哲学起点、认知链假说及模型模拟方向；首页保留按日研究日志，并提供中英文入口。",
+      "title_en": "Research Foundations & Cognitive Model Hypothesis v1.0.0",
+      "summary_en": "Adds the complete research document and diagrams in English and Chinese, presenting the project's philosophical starting point, cognitive-chain hypothesis, and direction for model simulation. The homepage retains the dated research journal and provides both language editions.",
+      "files": [
+        { "path": "site/research/index.html", "change": "added" },
+        { "path": "site/research/zh.html", "change": "added" },
+        { "path": "README.md", "change": "modified" },
+        { "path": "README.zh-CN.md", "change": "added" }
+      ]
+    },
+    {
       "id": "2026-10-19-daily-research-log",
       "date": "2026-10-19",
       "type": "feature",
       "title": "首页加入按日研究日志",
       "summary": "按日期展示项目更新，支持筛选页面改动、文件更新和功能更新，并链接相关文件与历史提交。",
+      "title_en": "Added a daily research journal to the homepage",
+      "summary_en": "Groups project updates by date, with filters for page changes, file updates, and features, plus links to related files and historical commits.",
       "files": [
         { "path": "data/research-log.json", "change": "added" },
         { "path": "scripts/build-research-log.mjs", "change": "added" },
@@ -20,6 +37,8 @@
       "type": "file",
       "title": "更新安全规范的实施状态",
       "summary": "明确模型原型尚未实现，区分开发安全要求与经过验证的隔离措施。",
+      "title_en": "Clarified the implementation status of safety requirements",
+      "summary_en": "Clarifies that no model prototype has been implemented and distinguishes development safety requirements from verified isolation measures.",
       "files": [
         { "path": "docs/SAFETY.md", "change": "modified", "ref": "9a440254d31bc64a1e89951a3dd4d96bf1d4b5a5" }
       ],
@@ -31,6 +50,8 @@
       "type": "page",
       "title": "上线独立项目介绍网站",
       "summary": "发布 GitHub Pages 首页，将网站和 README 精简为面向访客的项目介绍。",
+      "title_en": "Launched a dedicated project website",
+      "summary_en": "Published the GitHub Pages homepage and condensed the website and README into a visitor-facing project introduction.",
       "files": [
         { "path": "site/index.html", "change": "added", "ref": "a50451a512364d9d687785c299ff029bf0263dfd" },
         { "path": "site/styles.css", "change": "added", "ref": "a50451a512364d9d687785c299ff029bf0263dfd" },
@@ -44,6 +65,8 @@
       "type": "page",
       "title": "建立 GitHub 仓库介绍",
       "summary": "补充项目定位、英文摘要与联系信息，公开早期研究方向。",
+      "title_en": "Created the GitHub repository introduction",
+      "summary_en": "Added the project scope, an English abstract, and contact information to present the initial research direction.",
       "files": [
         { "path": "README.md", "change": "modified", "ref": "c511fb419b15702b3689354095e0e9ea213cdd41" }
       ],
@@ -55,6 +78,8 @@
       "type": "file",
       "title": "建立研究计划与安全文档",
       "summary": "记录研究愿景、可检验假设、原型路线与开发安全边界，作为项目的研究起点。",
+      "title_en": "Created the research plan and safety documentation",
+      "summary_en": "Recorded research aims, testable hypotheses, the prototype plan, and development safety boundaries as the starting point for the project.",
       "files": [
         { "path": "docs/RESEARCH_PLAN.md", "change": "added", "ref": "088260d254546db2092b9839eb84a538aaaf15f5" },
         { "path": "docs/SAFETY.md", "change": "added", "ref": "088260d254546db2092b9839eb84a538aaaf15f5" },

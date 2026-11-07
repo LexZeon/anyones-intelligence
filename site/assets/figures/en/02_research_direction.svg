@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="790" viewBox="0 0 1200 790">
+  <title>From a cognitive chain to model exploration</title>
+  <rect width="100%" height="100%" fill="#ffffff" />
+  <rect x="0" y="0" width="1200" height="790" rx="0" fill="#FFFFFF" stroke="none" stroke-width="1" />
+  <text x="56" y="30" font-family="DejaVu Sans" font-size="14" font-weight="bold" fill="#0072B2" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">FIGURE 02</text>
+  <text x="1144" y="30" font-family="DejaVu Sans" font-size="14" font-weight="normal" fill="#5B6775" text-anchor="end" dominant-baseline="text-before-edge" xml:space="preserve">ANYONE'S INTELLIGENCE</text>
+  <text x="56" y="62" font-family="DejaVu Sans" font-size="28" font-weight="bold" fill="#17212B" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">From a cognitive chain to model exploration</text>
+  <text x="56" y="106" font-family="DejaVu Sans" font-size="18" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">Use the proposed relational structure to explore simulated cognition through quantification and prototypes.</text>
+  <polyline points="56,148 1144,148" fill="none" stroke="#CBD5E1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+  <polyline points="384,286 424.5,286" fill="none" stroke="#0072B2" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+  <polygon points="432,286 422,290.2 422,281.8" fill="#0072B2" stroke="none" />
+  <polyline points="768,286 808.5,286" fill="none" stroke="#0072B2" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+  <polygon points="816,286 806,290.2 806,281.8" fill="#0072B2" stroke="none" />
+  <rect x="56" y="184" width="320" height="202" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1" />
+  <text x="78" y="204" font-family="DejaVu Sans" font-size="14" font-weight="bold" fill="#0072B2" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">THEORETICAL REFERENCE</text>
+  <text x="78" y="234" font-family="DejaVu Sans" font-size="23" font-weight="bold" fill="#17212B" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">The proposed</text>
+  <text x="78" y="265.05" font-family="DejaVu Sans" font-size="23" font-weight="bold" fill="#17212B" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">cognitive chain</text>
+  <text x="78" y="305" font-family="DejaVu Sans" font-size="18" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">Experience and memory</text>
+  <text x="78" y="329.3" font-family="DejaVu Sans" font-size="18" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">Language and state</text>
+  <text x="78" y="353.6" font-family="DejaVu Sans" font-size="18" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">Jointly shape understanding</text>
+  <rect x="440" y="184" width="320" height="202" rx="10" fill="#F2F8FC" stroke="#CBD5E1" stroke-width="1" />
+  <text x="462" y="204" font-family="DejaVu Sans" font-size="14" font-weight="bold" fill="#0072B2" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">RESEARCH PROCESS</text>
+  <text x="462" y="234" font-family="DejaVu Sans" font-size="23" font-weight="bold" fill="#17212B" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">Quantification</text>
+  <text x="462" y="265.05" font-family="DejaVu Sans" font-size="23" font-weight="bold" fill="#17212B" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">and implementation</text>
+  <text x="462" y="305" font-family="DejaVu Sans" font-size="18" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">Language-model prototypes</text>
+  <text x="462" y="329.3" font-family="DejaVu Sans" font-size="18" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">States and connections</text>
+  <text x="462" y="353.6" font-family="DejaVu Sans" font-size="18" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">Weights acting together</text>
+  <rect x="824" y="184" width="320" height="202" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1" />
+  <text x="846" y="204" font-family="DejaVu Sans" font-size="14" font-weight="bold" fill="#0072B2" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">IMPLEMENTATION AIM</text>
+  <text x="846" y="234" font-family="DejaVu Sans" font-size="23" font-weight="bold" fill="#17212B" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">Simulated cognition</text>
+  <text x="846" y="265.05" font-family="DejaVu Sans" font-size="23" font-weight="bold" fill="#17212B" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">in a model</text>
+  <text x="846" y="305" font-family="DejaVu Sans" font-size="18" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">Feelings and language</text>
+  <text x="846" y="329.3" font-family="DejaVu Sans" font-size="18" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">interact with memory</text>
+  <text x="846" y="353.6" font-family="DejaVu Sans" font-size="18" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">in cognitive processes.</text>
+  <polyline points="56,437 1144,437" fill="none" stroke="#CBD5E1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+  <text x="56" y="459" font-family="DejaVu Sans" font-size="23" font-weight="bold" fill="#17212B" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">Long-term aims</text>
+  <text x="1144" y="465" font-family="DejaVu Sans" font-size="14" font-weight="bold" fill="#D55E00" text-anchor="end" dominant-baseline="text-before-edge" xml:space="preserve">RESEARCH AIMS · NOT ESTABLISHED RESULTS</text>
+  <rect x="56" y="516" width="344" height="190" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1" />
+  <rect x="78" y="535" width="34" height="4" rx="0" fill="#D55E00" stroke="none" stroke-width="1" />
+  <text x="78" y="553" font-family="DejaVu Sans" font-size="21" font-weight="bold" fill="#17212B" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">Reliability and</text>
+  <text x="78" y="581.35" font-family="DejaVu Sans" font-size="21" font-weight="bold" fill="#17212B" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">interpretability</text>
+  <text x="78" y="621" font-family="DejaVu Sans" font-size="18" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">Seek to eliminate hallucinations</text>
+  <text x="78" y="645.3" font-family="DejaVu Sans" font-size="18" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">and black-box opacity.</text>
+  <text x="78" y="669.6" font-family="DejaVu Sans" font-size="18" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">Improve safety in use.</text>
+  <rect x="428" y="516" width="344" height="190" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1" />
+  <rect x="450" y="535" width="34" height="4" rx="0" fill="#D55E00" stroke="none" stroke-width="1" />
+  <text x="450" y="553" font-family="DejaVu Sans" font-size="21" font-weight="bold" fill="#17212B" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">Depth of understanding</text>
+  <text x="450" y="621" font-family="DejaVu Sans" font-size="18" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">Art</text>
+  <text x="450" y="645.3" font-family="DejaVu Sans" font-size="18" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">Culture</text>
+  <text x="450" y="669.6" font-family="DejaVu Sans" font-size="18" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">Politics</text>
+  <rect x="800" y="516" width="344" height="190" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1" />
+  <rect x="822" y="535" width="34" height="4" rx="0" fill="#D55E00" stroke="none" stroke-width="1" />
+  <text x="822" y="553" font-family="DejaVu Sans" font-size="21" font-weight="bold" fill="#17212B" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">Independent thought</text>
+  <text x="822" y="581.35" font-family="DejaVu Sans" font-size="21" font-weight="bold" fill="#17212B" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">and consciousness</text>
+  <text x="822" y="621" font-family="DejaVu Sans" font-size="18" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">Independent thinking and</text>
+  <text x="822" y="645.3" font-family="DejaVu Sans" font-size="18" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">innovative problem-solving.</text>
+  <text x="822" y="669.6" font-family="DejaVu Sans" font-size="18" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">Explore possible consciousness.</text>
+  <polyline points="56,726 1144,726" fill="none" stroke="#CBD5E1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+  <text x="56" y="747" font-family="DejaVu Sans" font-size="14" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">Research direction · The model architecture remains open · Long-term aims require further research and validation.</text>
+</svg>

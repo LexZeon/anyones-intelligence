@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1060" viewBox="0 0 1200 1060">
+  <title>Memory encoding: experience, state, and memory properties</title>
+  <rect width="100%" height="100%" fill="#ffffff" />
+  <text x="50" y="28" font-family="DejaVu Sans" font-size="15" font-weight="bold" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">FIGURE 04</text>
+  <text x="50" y="62" font-family="DejaVu Sans" font-size="31" font-weight="bold" fill="#17212B" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">Memory encoding: experience, state, and memory properties</text>
+  <text x="50" y="111" font-family="DejaVu Sans" font-size="18" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">Author's hypothesis | Using mockery about body weight to illustrate base weight and affective tone.</text>
+  <polyline points="50,174 1150,174" fill="none" stroke="#CBD5E1" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+  <polyline points="295,355 295,393 505,393 505,422.5" fill="none" stroke="#0072B2" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" />
+  <polygon points="505,430 500.8,420 509.2,420" fill="#0072B2" stroke="none" />
+  <polyline points="905,355 905,393 695,393 695,422.5" fill="none" stroke="#D55E00" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" />
+  <polygon points="695,430 690.8,420 699.2,420" fill="#D55E00" stroke="none" />
+  <polyline points="505,540 505,591 295,591 295,632.5" fill="none" stroke="#0072B2" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" />
+  <polygon points="295,640 290.8,630 299.2,630" fill="#0072B2" stroke="none" />
+  <polyline points="695,540 695,591 905,591 905,632.5" fill="none" stroke="#D55E00" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" />
+  <polygon points="905,640 900.8,630 909.2,630" fill="#D55E00" stroke="none" />
+  <polyline points="295,795 295,857.5" fill="none" stroke="#0072B2" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" />
+  <polygon points="295,865 290.8,855 299.2,855" fill="#0072B2" stroke="none" />
+  <polyline points="905,795 905,865" fill="none" stroke="#D55E00" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8 6" />
+  <rect x="50" y="210" width="490" height="145" rx="7" fill="#F2F8FC" stroke="#CBD5E1" stroke-width="1.5" />
+  <rect x="50" y="210" width="5" height="145" rx="0" fill="#0072B2" stroke="#0072B2" stroke-width="0" />
+  <text x="73" y="230" font-family="DejaVu Sans" font-size="23" font-weight="bold" fill="#17212B" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">An experience</text>
+  <text x="73" y="269" font-family="DejaVu Sans" font-size="20" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">Being mocked for being “fat”</text>
+  <rect x="660" y="210" width="490" height="145" rx="7" fill="#FFF6F0" stroke="#CBD5E1" stroke-width="1.5" />
+  <rect x="660" y="210" width="5" height="145" rx="0" fill="#D55E00" stroke="#D55E00" stroke-width="0" />
+  <text x="683" y="230" font-family="DejaVu Sans" font-size="22" font-weight="bold" fill="#17212B" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">Bodily state during encoding</text>
+  <text x="683" y="269" font-family="DejaVu Sans" font-size="19" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">For example, stress responses involving</text>
+  <text x="683" y="294.65" font-family="DejaVu Sans" font-size="19" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">cortisol and adrenaline</text>
+  <rect x="400" y="430" width="400" height="110" rx="7" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1.5" />
+  <rect x="400" y="430" width="5" height="110" rx="0" fill="#334155" stroke="#334155" stroke-width="0" />
+  <text x="423" y="450" font-family="DejaVu Sans" font-size="23" font-weight="bold" fill="#17212B" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">Memory encoding</text>
+  <text x="423" y="489" font-family="DejaVu Sans" font-size="18" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">Experience and bodily state are linked</text>
+  <rect x="50" y="640" width="490" height="155" rx="7" fill="#F2F8FC" stroke="#CBD5E1" stroke-width="1.5" />
+  <rect x="50" y="640" width="5" height="155" rx="0" fill="#0072B2" stroke="#0072B2" stroke-width="0" />
+  <text x="73" y="660" font-family="DejaVu Sans" font-size="23" font-weight="bold" fill="#17212B" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">Base weight</text>
+  <text x="73" y="699" font-family="DejaVu Sans" font-size="19" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">Higher in this example;</text>
+  <text x="73" y="724.65" font-family="DejaVu Sans" font-size="19" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">influences the tendency to be recalled</text>
+  <rect x="660" y="640" width="490" height="155" rx="7" fill="#FFF6F0" stroke="#CBD5E1" stroke-width="1.5" />
+  <rect x="660" y="640" width="5" height="155" rx="0" fill="#D55E00" stroke="#D55E00" stroke-width="0" />
+  <text x="683" y="660" font-family="DejaVu Sans" font-size="23" font-weight="bold" fill="#17212B" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">“Base color”</text>
+  <text x="683" y="699" font-family="DejaVu Sans" font-size="19" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">The affective tone a memory carries,</text>
+  <text x="683" y="724.65" font-family="DejaVu Sans" font-size="19" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">such as anxiety or fear</text>
+  <rect x="50" y="865" width="490" height="86" rx="7" fill="#FFFFFF" stroke="#0072B2" stroke-width="1.5" />
+  <text x="295" y="882" font-family="DejaVu Sans" font-size="20" font-weight="normal" fill="#17212B" text-anchor="middle" dominant-baseline="text-before-edge" xml:space="preserve">More readily evoked by related cues</text>
+  <text x="295" y="916" font-family="DejaVu Sans" font-size="16" font-weight="normal" fill="#5B6775" text-anchor="middle" dominant-baseline="text-before-edge" xml:space="preserve">A recall tendency, not guaranteed recall</text>
+  <rect x="660" y="865" width="490" height="86" rx="7" fill="#FFFFFF" stroke="#D55E00" stroke-width="1.5" />
+  <text x="905" y="882" font-family="DejaVu Sans" font-size="20" font-weight="normal" fill="#17212B" text-anchor="middle" dominant-baseline="text-before-edge" xml:space="preserve">Associated with later avoidance</text>
+  <text x="905" y="916" font-family="DejaVu Sans" font-size="16" font-weight="normal" fill="#5B6775" text-anchor="middle" dominant-baseline="text-before-edge" xml:space="preserve">Also linked to innate approach–avoidance</text>
+  <polyline points="50,985 1150,985" fill="none" stroke="#CBD5E1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+  <text x="50" y="1003" font-family="DejaVu Sans" font-size="16" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">Arrows show proposed relations; the dashed line marks an association.</text>
+  <text x="50" y="1024.6" font-family="DejaVu Sans" font-size="16" font-weight="normal" fill="#5B6775" text-anchor="start" dominant-baseline="text-before-edge" xml:space="preserve">No fixed formula, probability, or validated encoding mechanism is specified.</text>
+</svg>
